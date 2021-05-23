@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Ground
+  - RunSpawn
+  - PlayerExtra
+  - TrapHolder
+  - Death
+  - Enemy
+  - Battle
+  - BonusBox
+  - Wall
+  - Teleport
+  - SceneManager
+  - DoorRed
+  - DoorBlue
+  - Dead
+  - Tap
+  - Reduced
+  - ReduceBar
+  - Arrow
+  - SlopeEnd
+  - SlopeStart
+  - EnemyHealth
+  - Shop
+  - Spike
+  - Sign
+  - GameMaster
+  - Treasure
+  - Battle Canvas
+  - Magic
+  - FP
+  - Water
+  - Hole
+  - CaveWall
+  - Manager
+  - Tree
+  - Deer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - WorldSpaceUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 373317793
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3059495269
+    locked: 0
+  - name: UILayer
+    uniqueID: 2834361987
+    locked: 0

@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BattleAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 845beb739a7ce35439651c2736e18c62, type: 3}
+    - {fileID: 2800000, guid: 8d03461b5fc309d4fa845548fbb83c27, type: 3}
+    - {fileID: 2800000, guid: abb5bea4c7ac7bb4095f9e002e400819, type: 3}
+    - {fileID: 2800000, guid: ff394e49a05423b4f99ab52ac66ecdb9, type: 3}
+    - {fileID: 2800000, guid: 343d82eb4a7985146b5cc3b0de7c5a8c, type: 3}
+    - {fileID: 2800000, guid: 27521bb3205f8e541a4ffbd726d5bde7, type: 3}
+    - {fileID: 2800000, guid: 8f61d932a645f294ea9fe58c82e2a2c2, type: 3}
+    - {fileID: 2800000, guid: 2ace269024ed5e541883e3f4963f84af, type: 3}
+    - {fileID: 2800000, guid: dbedc9184325d214e98668b5138b169f, type: 3}
+    - {fileID: 2800000, guid: bd4bf569d716e0743abf0bc93941710f, type: 3}
+    - {fileID: 2800000, guid: a1f8a106c5e99194b8fa7fa73b0d005f, type: 3}
+    - {fileID: 2800000, guid: 2a120f9dfc6d93749afb3920969d7630, type: 3}
+    - {fileID: 2800000, guid: 297d638af17ed794e9bb3616ecaa539a, type: 3}
+    - {fileID: 2800000, guid: 7710b3f8953cfeb4d930e2538faeff1a, type: 3}
+    - {fileID: 2800000, guid: 371d4f6f592b6f34e81fa996d9438a97, type: 3}
+    - {fileID: 2800000, guid: 21e10f171226b8747bd079904fb21901, type: 3}
+    - {fileID: 2800000, guid: 5f51c9b790a10b948ad7b48445665283, type: 3}
+    - {fileID: 2800000, guid: a7563c0a0cd5b9e42a91db61ce70d944, type: 3}
+    totalSpriteSurfaceArea: 9228
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2ace269024ed5e541883e3f4963f84af, type: 3}
+  - {fileID: 21300000, guid: 8f61d932a645f294ea9fe58c82e2a2c2, type: 3}
+  - {fileID: 21300000, guid: 845beb739a7ce35439651c2736e18c62, type: 3}
+  - {fileID: 21300000, guid: 27521bb3205f8e541a4ffbd726d5bde7, type: 3}
+  - {fileID: 21300000, guid: abb5bea4c7ac7bb4095f9e002e400819, type: 3}
+  - {fileID: 21300000, guid: a1f8a106c5e99194b8fa7fa73b0d005f, type: 3}
+  - {fileID: 21300000, guid: 21e10f171226b8747bd079904fb21901, type: 3}
+  - {fileID: 21300000, guid: 5f51c9b790a10b948ad7b48445665283, type: 3}
+  - {fileID: 21300000, guid: dbedc9184325d214e98668b5138b169f, type: 3}
+  - {fileID: 21300000, guid: 7710b3f8953cfeb4d930e2538faeff1a, type: 3}
+  - {fileID: 21300000, guid: ff394e49a05423b4f99ab52ac66ecdb9, type: 3}
+  - {fileID: 21300000, guid: bd4bf569d716e0743abf0bc93941710f, type: 3}
+  - {fileID: 21300000, guid: a7563c0a0cd5b9e42a91db61ce70d944, type: 3}
+  - {fileID: 21300000, guid: 297d638af17ed794e9bb3616ecaa539a, type: 3}
+  - {fileID: 21300000, guid: 8d03461b5fc309d4fa845548fbb83c27, type: 3}
+  - {fileID: 21300000, guid: 343d82eb4a7985146b5cc3b0de7c5a8c, type: 3}
+  - {fileID: 21300000, guid: 2a120f9dfc6d93749afb3920969d7630, type: 3}
+  - {fileID: 21300000, guid: 371d4f6f592b6f34e81fa996d9438a97, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - subpanel_center_left
+  - subpanel_center
+  - bar_horizontal_A_left
+  - subpanel_bottom_center
+  - bar_horizontal_A_center
+  - subpanel_top_left
+  - number_2
+  - number_3
+  - subpanel_center_right
+  - power_B
+  - subpanel_bottom_left
+  - subpanel_top_center
+  - button_large_down
+  - heart
+  - bar_horizontal_A_right
+  - subpanel_bottom_right
+  - subpanel_top_right
+  - number_1
+  m_Tag: BattleAtlas
+  m_IsVariant: 0

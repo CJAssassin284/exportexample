@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RunningRPG
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 0ace44f37b1628d47bfe491201a57c88, type: 3}
+    - {fileID: 2800000, guid: cabb847e84ebe274a9936f43d8dce949, type: 3}
+    - {fileID: 2800000, guid: b7cf5fdb68193824ea85003e736b5960, type: 3}
+    - {fileID: 2800000, guid: a3a7e6a7a6af69e41b09d91db15c2130, type: 3}
+    - {fileID: 2800000, guid: 7ba57cb9bfee35a49abd18d78b56cce5, type: 3}
+    - {fileID: 2800000, guid: 33b8959515d13b94db7c7a0f7fadf1df, type: 3}
+    - {fileID: 2800000, guid: 2fa61160dca57564498b5846babbeab2, type: 3}
+    - {fileID: 2800000, guid: 0b258b813fc6f0f44a895f60bffc938b, type: 3}
+    - {fileID: 2800000, guid: 5aaa1aa8b8ea46a41bf61d518ae9135c, type: 3}
+    - {fileID: 2800000, guid: a4baebfa5828eec44a59b49ff5db156c, type: 3}
+    - {fileID: 2800000, guid: 792da3cc1411a96499a31c5d8ece63ba, type: 3}
+    - {fileID: 2800000, guid: 0b258b813fc6f0f44a895f60bffc938b, type: 3}
+    - {fileID: 2800000, guid: 81643878e0ea0d847acbfcd38f8e6399, type: 3}
+    - {fileID: 2800000, guid: 3c5fce8bc9e7ad84b9d7ae1b84e0c40b, type: 3}
+    - {fileID: 2800000, guid: 1225678c9fc969f4e90e0857d1e72fa8, type: 3}
+    - {fileID: 2800000, guid: 97e8fd2cc6127394b9be00214292b4d6, type: 3}
+    - {fileID: 21300192, guid: 1617c61ae997bc2478a28287c319ad21, type: 3}
+    totalSpriteSurfaceArea: 133266
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2fa61160dca57564498b5846babbeab2, type: 3}
+  - {fileID: 21300000, guid: 0b258b813fc6f0f44a895f60bffc938b, type: 3}
+  - {fileID: 21300000, guid: 0ace44f37b1628d47bfe491201a57c88, type: 3}
+  - {fileID: 21300000, guid: 33b8959515d13b94db7c7a0f7fadf1df, type: 3}
+  - {fileID: 21300000, guid: a3a7e6a7a6af69e41b09d91db15c2130, type: 3}
+  - {fileID: 21300000, guid: 5aaa1aa8b8ea46a41bf61d518ae9135c, type: 3}
+  - {fileID: 21300000, guid: 7ba57cb9bfee35a49abd18d78b56cce5, type: 3}
+  - {fileID: 21300192, guid: 1617c61ae997bc2478a28287c319ad21, type: 3}
+  - {fileID: 21300000, guid: a4baebfa5828eec44a59b49ff5db156c, type: 3}
+  - {fileID: 21300000, guid: 3c5fce8bc9e7ad84b9d7ae1b84e0c40b, type: 3}
+  - {fileID: 21300000, guid: b7cf5fdb68193824ea85003e736b5960, type: 3}
+  - {fileID: 21300000, guid: 97e8fd2cc6127394b9be00214292b4d6, type: 3}
+  - {fileID: 21300000, guid: 1225678c9fc969f4e90e0857d1e72fa8, type: 3}
+  - {fileID: 21300000, guid: 792da3cc1411a96499a31c5d8ece63ba, type: 3}
+  - {fileID: 21300000, guid: cabb847e84ebe274a9936f43d8dce949, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - castle_35
+  - tutorial_01
+  - castle_03
+  - castle_37
+  - castle_29
+  - Button_Green_Outline
+  - castle_31
+  - Tileset_96
+  - Button_Dark_Outline (4)
+  - shield_plat
+  - castle_17
+  - book_brown
+  - sword_silver
+  - Button_Blue_Outline
+  - castle_15
+  m_Tag: RunningRPG
+  m_IsVariant: 0

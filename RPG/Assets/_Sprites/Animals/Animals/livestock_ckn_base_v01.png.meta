@@ -1,0 +1,1442 @@
+fileFormatVersion: 2
+guid: 134bbec04b7426d4f9e5579d785881cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3632438093321331507
+    second: livestock_ckn_base_v01_0
+  - first:
+      213: 882026692830549280
+    second: livestock_ckn_base_v01_1
+  - first:
+      213: -3715584677964356833
+    second: livestock_ckn_base_v01_2
+  - first:
+      213: -7003785270769461712
+    second: livestock_ckn_base_v01_3
+  - first:
+      213: 5176623391121793011
+    second: livestock_ckn_base_v01_4
+  - first:
+      213: -6493811645906821952
+    second: livestock_ckn_base_v01_5
+  - first:
+      213: -9197149320691155408
+    second: livestock_ckn_base_v01_6
+  - first:
+      213: -2696816652288473659
+    second: livestock_ckn_base_v01_7
+  - first:
+      213: -2810884196223118079
+    second: livestock_ckn_base_v01_8
+  - first:
+      213: 4341409582297333587
+    second: livestock_ckn_base_v01_9
+  - first:
+      213: 2054326277066388746
+    second: livestock_ckn_base_v01_10
+  - first:
+      213: -6852907422648779256
+    second: livestock_ckn_base_v01_11
+  - first:
+      213: -6290242101232364347
+    second: livestock_ckn_base_v01_12
+  - first:
+      213: -983278467349526556
+    second: livestock_ckn_base_v01_13
+  - first:
+      213: -5205023189742001130
+    second: livestock_ckn_base_v01_14
+  - first:
+      213: -8038466631971174782
+    second: livestock_ckn_base_v01_15
+  - first:
+      213: -4628092889359297263
+    second: livestock_ckn_base_v01_16
+  - first:
+      213: 9121011202473547733
+    second: livestock_ckn_base_v01_17
+  - first:
+      213: -8781979369202703099
+    second: livestock_ckn_base_v01_18
+  - first:
+      213: -4129889462395183770
+    second: livestock_ckn_base_v01_19
+  - first:
+      213: -448731071094783063
+    second: livestock_ckn_base_v01_20
+  - first:
+      213: 5126525365683517863
+    second: livestock_ckn_base_v01_21
+  - first:
+      213: -3521906139747389799
+    second: livestock_ckn_base_v01_22
+  - first:
+      213: -4740043837477388147
+    second: livestock_ckn_base_v01_23
+  - first:
+      213: -6655047873909277139
+    second: livestock_ckn_base_v01_24
+  - first:
+      213: 5925230499085119576
+    second: livestock_ckn_base_v01_25
+  - first:
+      213: 1613149268219039914
+    second: livestock_ckn_base_v01_26
+  - first:
+      213: 8324114976190851665
+    second: livestock_ckn_base_v01_27
+  - first:
+      213: -6053951338036530074
+    second: livestock_ckn_base_v01_28
+  - first:
+      213: -4818335461537403007
+    second: livestock_ckn_base_v01_29
+  - first:
+      213: -1713604739394607663
+    second: livestock_ckn_base_v01_30
+  - first:
+      213: -6064041213422338313
+    second: livestock_ckn_base_v01_31
+  - first:
+      213: 8193259667709442171
+    second: livestock_ckn_base_v01_32
+  - first:
+      213: -8904093076601528496
+    second: livestock_ckn_base_v01_33
+  - first:
+      213: 8433602914113047077
+    second: livestock_ckn_base_v01_34
+  - first:
+      213: 5209910118986604051
+    second: livestock_ckn_base_v01_35
+  - first:
+      213: -5948243717472913661
+    second: livestock_ckn_base_v01_36
+  - first:
+      213: 9174586605314013962
+    second: livestock_ckn_base_v01_37
+  - first:
+      213: 7836319768078602218
+    second: livestock_ckn_base_v01_38
+  - first:
+      213: 7722758071798047103
+    second: livestock_ckn_base_v01_39
+  - first:
+      213: 1511787309919727535
+    second: livestock_ckn_base_v01_40
+  - first:
+      213: -7679832943493193809
+    second: livestock_ckn_base_v01_41
+  - first:
+      213: 1136898816435657721
+    second: livestock_ckn_base_v01_0
+  - first:
+      213: 1410517322673868554
+    second: livestock_ckn_base_v01_1
+  - first:
+      213: 2596043065134114396
+    second: livestock_ckn_base_v01_2
+  - first:
+      213: 2853788689334260834
+    second: livestock_ckn_base_v01_3
+  - first:
+      213: 1934398667723542665
+    second: livestock_ckn_base_v01_4
+  - first:
+      213: -2145341459539645812
+    second: livestock_ckn_base_v01_5
+  - first:
+      213: -3886945933001659803
+    second: livestock_ckn_base_v01_6
+  - first:
+      213: -3888459969308549364
+    second: livestock_ckn_base_v01_7
+  - first:
+      213: -7770722239354800893
+    second: livestock_ckn_base_v01_8
+  - first:
+      213: -7589875571541449328
+    second: livestock_ckn_base_v01_9
+  - first:
+      213: 8483705071561208522
+    second: livestock_ckn_base_v01_10
+  - first:
+      213: -7939110527349186308
+    second: livestock_ckn_base_v01_11
+  - first:
+      213: -6283736524449737255
+    second: livestock_ckn_base_v01_12
+  - first:
+      213: 7681820361517175204
+    second: livestock_ckn_base_v01_13
+  - first:
+      213: 1382354888840764048
+    second: livestock_ckn_base_v01_14
+  - first:
+      213: 8192187500986267451
+    second: livestock_ckn_base_v01_15
+  - first:
+      213: 4603332776242831000
+    second: livestock_ckn_base_v01_16
+  - first:
+      213: -8321360633203639465
+    second: livestock_ckn_base_v01_17
+  - first:
+      213: 6247879823178023730
+    second: livestock_ckn_base_v01_18
+  - first:
+      213: -6286272713536170076
+    second: livestock_ckn_base_v01_19
+  - first:
+      213: 6455706699673547078
+    second: livestock_ckn_base_v01_20
+  - first:
+      213: -8373382364749129138
+    second: livestock_ckn_base_v01_21
+  - first:
+      213: -7876483129980539709
+    second: livestock_ckn_base_v01_22
+  - first:
+      213: 2342747382226610661
+    second: livestock_ckn_base_v01_23
+  - first:
+      213: -6964282122789407396
+    second: livestock_ckn_base_v01_24
+  - first:
+      213: 4844222585559856129
+    second: livestock_ckn_base_v01_25
+  - first:
+      213: 9057042554343479772
+    second: livestock_ckn_base_v01_26
+  - first:
+      213: -2940177399747367427
+    second: livestock_ckn_base_v01_27
+  - first:
+      213: 8824485003324582098
+    second: livestock_ckn_base_v01_28
+  - first:
+      213: 846354880061182781
+    second: livestock_ckn_base_v01_29
+  - first:
+      213: -3090915428886757003
+    second: livestock_ckn_base_v01_30
+  - first:
+      213: 7116511145040339146
+    second: livestock_ckn_base_v01_31
+  - first:
+      213: 6309737394727298800
+    second: livestock_ckn_base_v01_32
+  - first:
+      213: -2942647717949236793
+    second: livestock_ckn_base_v01_33
+  - first:
+      213: -6235202231432368199
+    second: livestock_ckn_base_v01_34
+  - first:
+      213: -7549118274181329224
+    second: livestock_ckn_base_v01_35
+  - first:
+      213: -343118047007653958
+    second: livestock_ckn_base_v01_36
+  - first:
+      213: 8744394407157829680
+    second: livestock_ckn_base_v01_37
+  - first:
+      213: 7369755330818941056
+    second: livestock_ckn_base_v01_38
+  - first:
+      213: 3143200973845468648
+    second: livestock_ckn_base_v01_39
+  - first:
+      213: -9068454451624597845
+    second: livestock_ckn_base_v01_40
+  - first:
+      213: -6294538837410843060
+    second: livestock_ckn_base_v01_41
+  - first:
+      213: 3135309032576024253
+    second: livestock_ckn_base_v01_42
+  - first:
+      213: 6074875001818074061
+    second: livestock_ckn_base_v01_43
+  - first:
+      213: 7301882067590486861
+    second: livestock_ckn_base_v01_44
+  - first:
+      213: 2907353317054749286
+    second: livestock_ckn_base_v01_45
+  - first:
+      213: 3130117809610951985
+    second: livestock_ckn_base_v01_46
+  - first:
+      213: -8464701672733531675
+    second: livestock_ckn_base_v01_47
+  - first:
+      213: -5120565879669351203
+    second: livestock_ckn_base_v01_48
+  - first:
+      213: 7633416201971007063
+    second: livestock_ckn_base_v01_49
+  - first:
+      213: -265276333137337599
+    second: livestock_ckn_base_v01_50
+  - first:
+      213: 7137147643707000102
+    second: livestock_ckn_base_v01_51
+  - first:
+      213: 6893903098769719096
+    second: livestock_ckn_base_v01_52
+  - first:
+      213: -3313103373858277551
+    second: livestock_ckn_base_v01_53
+  - first:
+      213: -6107819290016932030
+    second: livestock_ckn_base_v01_54
+  - first:
+      213: -6146784820876222358
+    second: livestock_ckn_base_v01_55
+  - first:
+      213: 6711124094472076296
+    second: livestock_ckn_base_v01_56
+  - first:
+      213: 7162132864223695034
+    second: livestock_ckn_base_v01_57
+  - first:
+      213: 4919470405989160818
+    second: livestock_ckn_base_v01_58
+  - first:
+      213: -4025655250292553543
+    second: livestock_ckn_base_v01_59
+  - first:
+      213: 5640619953233232191
+    second: livestock_ckn_base_v01_60
+  - first:
+      213: -7914851468474841361
+    second: livestock_ckn_base_v01_61
+  - first:
+      213: 4557272347946268356
+    second: livestock_ckn_base_v01_62
+  - first:
+      213: 2654983980110535578
+    second: livestock_ckn_base_v01_63
+  - first:
+      213: -5215937300770403897
+    second: livestock_ckn_base_v01_64
+  - first:
+      213: 191193168560498836
+    second: livestock_ckn_base_v01_65
+  - first:
+      213: 3923362018009274009
+    second: livestock_ckn_base_v01_66
+  - first:
+      213: 5330048267717810720
+    second: livestock_ckn_base_v01_67
+  - first:
+      213: 2928211383908765896
+    second: livestock_ckn_base_v01_68
+  - first:
+      213: 4105552213676154879
+    second: livestock_ckn_base_v01_69
+  - first:
+      213: 2236950149755291290
+    second: livestock_ckn_base_v01_70
+  - first:
+      213: 12701579161907263
+    second: livestock_ckn_base_v01_71
+  - first:
+      213: -2786238490176031680
+    second: livestock_ckn_base_v01_72
+  - first:
+      213: -2459765002172628121
+    second: livestock_ckn_base_v01_73
+  - first:
+      213: 2021696778922238498
+    second: livestock_ckn_base_v01_74
+  - first:
+      213: 7572540841352250620
+    second: livestock_ckn_base_v01_75
+  - first:
+      213: 8420335068787131882
+    second: livestock_ckn_base_v01_76
+  - first:
+      213: 4175012271236404731
+    second: livestock_ckn_base_v01_77
+  - first:
+      213: 3676603277881026807
+    second: livestock_ckn_base_v01_78
+  - first:
+      213: 4912609472393717231
+    second: livestock_ckn_base_v01_79
+  - first:
+      213: -4453505896123317462
+    second: livestock_ckn_base_v01_80
+  - first:
+      213: 2808975394889670982
+    second: livestock_ckn_base_v01_81
+  - first:
+      213: 384750756240763203
+    second: livestock_ckn_base_v01_82
+  - first:
+      213: -8078213237446212737
+    second: livestock_ckn_base_v01_83
+  - first:
+      213: -5972165950024427067
+    second: livestock_ckn_base_v01_84
+  - first:
+      213: -6736452815714845008
+    second: livestock_ckn_base_v01_85
+  - first:
+      213: -7258233032620307669
+    second: livestock_ckn_base_v01_86
+  - first:
+      213: -5641301190022948092
+    second: livestock_ckn_base_v01_87
+  - first:
+      213: 6118245193550465297
+    second: livestock_ckn_base_v01_88
+  - first:
+      213: 1673112034248160853
+    second: livestock_ckn_base_v01_89
+  - first:
+      213: 5928954180031821144
+    second: livestock_ckn_base_v01_90
+  - first:
+      213: 5264489885406638258
+    second: livestock_ckn_base_v01_91
+  - first:
+      213: -5761965068553561622
+    second: livestock_ckn_base_v01_92
+  - first:
+      213: -6271463336518543358
+    second: livestock_ckn_base_v01_93
+  - first:
+      213: 7361763147469332310
+    second: livestock_ckn_base_v01_94
+  - first:
+      213: -4613089773741189066
+    second: livestock_ckn_base_v01_95
+  - first:
+      213: 5775060221616885802
+    second: livestock_ckn_base_v01_96
+  - first:
+      213: 1357616924380335303
+    second: livestock_ckn_base_v01_97
+  - first:
+      213: -4218337358028119697
+    second: livestock_ckn_base_v01_98
+  - first:
+      213: -1452117169473537298
+    second: livestock_ckn_base_v01_99
+  - first:
+      213: -1451753253788342488
+    second: livestock_ckn_base_v01_100
+  - first:
+      213: -3976125449976064373
+    second: livestock_ckn_base_v01_101
+  - first:
+      213: 5383504618794529321
+    second: livestock_ckn_base_v01_102
+  - first:
+      213: 2025164184898869995
+    second: livestock_ckn_base_v01_103
+  - first:
+      213: -8463801396959280019
+    second: livestock_ckn_base_v01_104
+  - first:
+      213: -8541185316320227791
+    second: livestock_ckn_base_v01_105
+  - first:
+      213: -8914940319168687502
+    second: livestock_ckn_base_v01_106
+  - first:
+      213: 1174892443855602768
+    second: livestock_ckn_base_v01_107
+  - first:
+      213: -8033751356647002743
+    second: livestock_ckn_base_v01_108
+  - first:
+      213: 115018607129693595
+    second: livestock_ckn_base_v01_109
+  - first:
+      213: -8821862409172388245
+    second: livestock_ckn_base_v01_110
+  - first:
+      213: -2281168613007846364
+    second: livestock_ckn_base_v01_111
+  - first:
+      213: -7150711691842852676
+    second: livestock_ckn_base_v01_112
+  - first:
+      213: -7507577663821340067
+    second: livestock_ckn_base_v01_113
+  - first:
+      213: 1800951888925356083
+    second: livestock_ckn_base_v01_114
+  - first:
+      213: 6370489640792406220
+    second: livestock_ckn_base_v01_115
+  - first:
+      213: 6079658565694334181
+    second: livestock_ckn_base_v01_116
+  - first:
+      213: -4059805300406112461
+    second: livestock_ckn_base_v01_117
+  - first:
+      213: -6901727186747920410
+    second: livestock_ckn_base_v01_118
+  - first:
+      213: -7540971302334070409
+    second: livestock_ckn_base_v01_119
+  - first:
+      213: 8781000823594470155
+    second: livestock_ckn_base_v01_120
+  - first:
+      213: -4280380759461840449
+    second: livestock_ckn_base_v01_121
+  - first:
+      213: -8545740536471413070
+    second: livestock_ckn_base_v01_122
+  - first:
+      213: -8021024659628541342
+    second: livestock_ckn_base_v01_123
+  - first:
+      213: -6186527830271351227
+    second: livestock_ckn_base_v01_124
+  - first:
+      213: -4249341653912987847
+    second: livestock_ckn_base_v01_125
+  - first:
+      213: -9140141461985627789
+    second: livestock_ckn_base_v01_126
+  - first:
+      213: -1730375362346422682
+    second: livestock_ckn_base_v01_127
+  - first:
+      213: -3615593735521006882
+    second: livestock_ckn_base_v01_128
+  - first:
+      213: 815498708084243572
+    second: livestock_ckn_base_v01_129
+  - first:
+      213: 7331678229102831897
+    second: livestock_ckn_base_v01_130
+  - first:
+      213: -6256753506974474273
+    second: livestock_ckn_base_v01_131
+  - first:
+      213: -5497361567771994939
+    second: livestock_ckn_base_v01_132
+  - first:
+      213: 3084584654549338609
+    second: livestock_ckn_base_v01_133
+  - first:
+      213: 7947333783921855030
+    second: livestock_ckn_base_v01_134
+  - first:
+      213: -9017766248946801264
+    second: livestock_ckn_base_v01_135
+  - first:
+      213: 3947935585826809343
+    second: livestock_ckn_base_v01_136
+  - first:
+      213: -8353891156396777263
+    second: livestock_ckn_base_v01_137
+  - first:
+      213: 3473608654329120691
+    second: livestock_ckn_base_v01_138
+  - first:
+      213: -4107606537426535749
+    second: livestock_ckn_base_v01_139
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb9533337317cf00800000000000000
+      internalID: 1136898816435657721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fc28f180a239310800000000000000
+      internalID: 1410517322673868554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c566feec96ff60420800000000000000
+      internalID: 2596043065134114396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264dbc361b1ba9720800000000000000
+      internalID: 2853788689334260834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98096a3e65d58da10800000000000000
+      internalID: 1934398667723542665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aa83e1f473a32e0800000000000000
+      internalID: -2145341459539645812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a6942944bce0ac0800000000000000
+      internalID: -3886945933001659803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f9906824a690ac0800000000000000
+      internalID: -3888459969308549364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305770b5b49d82490800000000000000
+      internalID: -7770722239354800893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0956bdc61685ba690800000000000000
+      internalID: -7589875571541449328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2f59160dc2cb570800000000000000
+      internalID: 8483705071561208522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a9c0e90d92d190800000000000000
+      internalID: -7939110527349186308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d596067ceeabc8a0800000000000000
+      internalID: -6283736524449737255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a118943bee4b9a60800000000000000
+      internalID: 7681820361517175204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ad0e6827c1f2310800000000000000
+      internalID: 1382354888840764048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b377ea9c02f70b170800000000000000
+      internalID: 8192187500986267451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eddde35c252ef30800000000000000
+      internalID: 4603332776242831000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b3af1b796948c80800000000000000
+      internalID: -8321360633203639465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2334bd3b89de4b650800000000000000
+      internalID: 6247879823178023730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7127ce54ca2c8a0800000000000000
+      internalID: -6286272713536170076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641b6202a07479950800000000000000
+      internalID: 6455706699673547078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a9b947a15cbcb80800000000000000
+      internalID: -8373382364749129138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc272e135c11b290800000000000000
+      internalID: -7876483129980539709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9e71ce45c138020800000000000000
+      internalID: 2342747382226610661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55b883ce46e95f90800000000000000
+      internalID: -6964282122789407396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104383996c22a3340800000000000000
+      internalID: 4844222585559856129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd95d37873411bd70800000000000000
+      internalID: 9057042554343479772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd2d6f8b346237d0800000000000000
+      internalID: -2940177399747367427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d86cec3b5ed67a70800000000000000
+      internalID: 8824485003324582098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3317fb774bdebb00800000000000000
+      internalID: 846354880061182781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5714e663bccda15d0800000000000000
+      internalID: -3090915428886757003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0ec387e2de2c260800000000000000
+      internalID: 7116511145040339146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f628b6eab0b09750800000000000000
+      internalID: 6309737394727298800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c99588cd7d9927d0800000000000000
+      internalID: -2942647717949236793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf20c42b9c1879a0800000000000000
+      internalID: -6235202231432368199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livestock_ckn_base_v01_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be03043de42c3790800000000000000
+      internalID: -7549118274181329224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

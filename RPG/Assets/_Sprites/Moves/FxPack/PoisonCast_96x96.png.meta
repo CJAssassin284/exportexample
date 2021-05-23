@@ -1,0 +1,4591 @@
+fileFormatVersion: 2
+guid: 215d3ba4f2810bd4085d5c22db81d757
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1764037786099705308
+    second: PoisonCast_96x96_0
+  - first:
+      213: 18912290083943254
+    second: PoisonCast_96x96_1
+  - first:
+      213: -2351075752426849548
+    second: PoisonCast_96x96_2
+  - first:
+      213: 3297080804441319976
+    second: PoisonCast_96x96_3
+  - first:
+      213: -1434933692114799094
+    second: PoisonCast_96x96_4
+  - first:
+      213: -8841002919840976149
+    second: PoisonCast_96x96_5
+  - first:
+      213: -7537316136923920384
+    second: PoisonCast_96x96_6
+  - first:
+      213: 532583471548465327
+    second: PoisonCast_96x96_7
+  - first:
+      213: 4098741056084204285
+    second: PoisonCast_96x96_8
+  - first:
+      213: -4774829671958148424
+    second: PoisonCast_96x96_9
+  - first:
+      213: 4225378191670586595
+    second: PoisonCast_96x96_10
+  - first:
+      213: 3972789136251108334
+    second: PoisonCast_96x96_11
+  - first:
+      213: -1052492931193180150
+    second: PoisonCast_96x96_12
+  - first:
+      213: -6183212437548477024
+    second: PoisonCast_96x96_13
+  - first:
+      213: 5771475994723754457
+    second: PoisonCast_96x96_14
+  - first:
+      213: 1777603505668162114
+    second: PoisonCast_96x96_15
+  - first:
+      213: 3357291377336947827
+    second: PoisonCast_96x96_16
+  - first:
+      213: 4985061911110405754
+    second: PoisonCast_96x96_17
+  - first:
+      213: -5426989771602323801
+    second: PoisonCast_96x96_18
+  - first:
+      213: 200082129662454447
+    second: PoisonCast_96x96_19
+  - first:
+      213: 9000503880317984708
+    second: PoisonCast_96x96_20
+  - first:
+      213: 1826054333535505553
+    second: PoisonCast_96x96_21
+  - first:
+      213: -2477362496898632845
+    second: PoisonCast_96x96_22
+  - first:
+      213: 5133567144660148537
+    second: PoisonCast_96x96_23
+  - first:
+      213: -9116965856850453773
+    second: PoisonCast_96x96_24
+  - first:
+      213: 6517695299316787051
+    second: PoisonCast_96x96_25
+  - first:
+      213: -6892173340956869264
+    second: PoisonCast_96x96_26
+  - first:
+      213: 1667229020423282943
+    second: PoisonCast_96x96_27
+  - first:
+      213: 7269565859423945934
+    second: PoisonCast_96x96_28
+  - first:
+      213: -1225447601376475221
+    second: PoisonCast_96x96_29
+  - first:
+      213: 286992720826618708
+    second: PoisonCast_96x96_30
+  - first:
+      213: 7863198633947334177
+    second: PoisonCast_96x96_31
+  - first:
+      213: 3913982464130256145
+    second: PoisonCast_96x96_32
+  - first:
+      213: -348731921327524282
+    second: PoisonCast_96x96_33
+  - first:
+      213: 874791016409482585
+    second: PoisonCast_96x96_34
+  - first:
+      213: -5555044862951790627
+    second: PoisonCast_96x96_35
+  - first:
+      213: 7738032164747475641
+    second: PoisonCast_96x96_36
+  - first:
+      213: 6140862158963142708
+    second: PoisonCast_96x96_37
+  - first:
+      213: -1482229555794778704
+    second: PoisonCast_96x96_38
+  - first:
+      213: -1384109931251223919
+    second: PoisonCast_96x96_39
+  - first:
+      213: -8086590512063761236
+    second: PoisonCast_96x96_40
+  - first:
+      213: 3486567769753299628
+    second: PoisonCast_96x96_41
+  - first:
+      213: 6119786739757502377
+    second: PoisonCast_96x96_42
+  - first:
+      213: 3024831534483711476
+    second: PoisonCast_96x96_43
+  - first:
+      213: -7238514651658712264
+    second: PoisonCast_96x96_44
+  - first:
+      213: -1621358072607957652
+    second: PoisonCast_96x96_45
+  - first:
+      213: -1008375318457346412
+    second: PoisonCast_96x96_46
+  - first:
+      213: -3520009396893907347
+    second: PoisonCast_96x96_47
+  - first:
+      213: -7188030341246290894
+    second: PoisonCast_96x96_48
+  - first:
+      213: 6919182448449697729
+    second: PoisonCast_96x96_49
+  - first:
+      213: 5824546052742831828
+    second: PoisonCast_96x96_50
+  - first:
+      213: -4638334703626669718
+    second: PoisonCast_96x96_51
+  - first:
+      213: 5958394828089087184
+    second: PoisonCast_96x96_52
+  - first:
+      213: 7043781351261956700
+    second: PoisonCast_96x96_53
+  - first:
+      213: -6078647122684153056
+    second: PoisonCast_96x96_54
+  - first:
+      213: -1418924072758065894
+    second: PoisonCast_96x96_55
+  - first:
+      213: 6639329124491363018
+    second: PoisonCast_96x96_56
+  - first:
+      213: -3926408599811392872
+    second: PoisonCast_96x96_57
+  - first:
+      213: 4112444865252153972
+    second: PoisonCast_96x96_58
+  - first:
+      213: 6942203088390785088
+    second: PoisonCast_96x96_59
+  - first:
+      213: 5035674670055344005
+    second: PoisonCast_96x96_60
+  - first:
+      213: 2829833590897489549
+    second: PoisonCast_96x96_61
+  - first:
+      213: -1493699218866431922
+    second: PoisonCast_96x96_62
+  - first:
+      213: 3736029786445038760
+    second: PoisonCast_96x96_63
+  - first:
+      213: -8730362920830274545
+    second: PoisonCast_96x96_64
+  - first:
+      213: 3425527131794782383
+    second: PoisonCast_96x96_65
+  - first:
+      213: 960045581347766531
+    second: PoisonCast_96x96_66
+  - first:
+      213: -1104787639568069028
+    second: PoisonCast_96x96_67
+  - first:
+      213: 8338741154348233085
+    second: PoisonCast_96x96_68
+  - first:
+      213: -2889371639344759590
+    second: PoisonCast_96x96_69
+  - first:
+      213: 755813690650611897
+    second: PoisonCast_96x96_70
+  - first:
+      213: -6382218006151382062
+    second: PoisonCast_96x96_71
+  - first:
+      213: 8031722491371299615
+    second: PoisonCast_96x96_72
+  - first:
+      213: -6885806616112003322
+    second: PoisonCast_96x96_73
+  - first:
+      213: 3727801562575205475
+    second: PoisonCast_96x96_74
+  - first:
+      213: -2825789186818876634
+    second: PoisonCast_96x96_75
+  - first:
+      213: -8354472853039217204
+    second: PoisonCast_96x96_76
+  - first:
+      213: -9053644856729823642
+    second: PoisonCast_96x96_77
+  - first:
+      213: 4669850793730436625
+    second: PoisonCast_96x96_78
+  - first:
+      213: -7275666628898143902
+    second: PoisonCast_96x96_79
+  - first:
+      213: -3580091589998301827
+    second: PoisonCast_96x96_80
+  - first:
+      213: 3686230349709316266
+    second: PoisonCast_96x96_81
+  - first:
+      213: 2462373754928775438
+    second: PoisonCast_96x96_82
+  - first:
+      213: 2864611454871138604
+    second: PoisonCast_96x96_83
+  - first:
+      213: -5986166515046545009
+    second: PoisonCast_96x96_84
+  - first:
+      213: 274162255177224512
+    second: PoisonCast_96x96_85
+  - first:
+      213: -3416913760629943159
+    second: PoisonCast_96x96_86
+  - first:
+      213: 658468201374058953
+    second: PoisonCast_96x96_87
+  - first:
+      213: 5600662482662793420
+    second: PoisonCast_96x96_88
+  - first:
+      213: 7740685205914224592
+    second: PoisonCast_96x96_89
+  - first:
+      213: -482828094803042873
+    second: PoisonCast_96x96_90
+  - first:
+      213: -46436410716753290
+    second: PoisonCast_96x96_91
+  - first:
+      213: -965561996786129349
+    second: PoisonCast_96x96_92
+  - first:
+      213: -7397707476982451485
+    second: PoisonCast_96x96_93
+  - first:
+      213: 8427592954665137726
+    second: PoisonCast_96x96_94
+  - first:
+      213: -1815824262220793273
+    second: PoisonCast_96x96_95
+  - first:
+      213: -2747868880903941367
+    second: PoisonCast_96x96_96
+  - first:
+      213: -200799660218496841
+    second: PoisonCast_96x96_97
+  - first:
+      213: -2728545815548116818
+    second: PoisonCast_96x96_98
+  - first:
+      213: -3624266175901588041
+    second: PoisonCast_96x96_99
+  - first:
+      213: 2745558904830376243
+    second: PoisonCast_96x96_100
+  - first:
+      213: 2922469496497702603
+    second: PoisonCast_96x96_101
+  - first:
+      213: -300259377428131676
+    second: PoisonCast_96x96_102
+  - first:
+      213: 1711243817508725790
+    second: PoisonCast_96x96_103
+  - first:
+      213: 6985371678028244543
+    second: PoisonCast_96x96_104
+  - first:
+      213: -1727405295170408785
+    second: PoisonCast_96x96_105
+  - first:
+      213: -5832387053397598460
+    second: PoisonCast_96x96_106
+  - first:
+      213: -7377035401054115262
+    second: PoisonCast_96x96_107
+  - first:
+      213: 2000409809015953453
+    second: PoisonCast_96x96_108
+  - first:
+      213: 3629152985369150567
+    second: PoisonCast_96x96_109
+  - first:
+      213: 1036791013643477927
+    second: PoisonCast_96x96_110
+  - first:
+      213: -6145131528428459717
+    second: PoisonCast_96x96_111
+  - first:
+      213: -6484396327646523052
+    second: PoisonCast_96x96_112
+  - first:
+      213: -355606021782032135
+    second: PoisonCast_96x96_113
+  - first:
+      213: -5703877718808877270
+    second: PoisonCast_96x96_114
+  - first:
+      213: 418251299642371106
+    second: PoisonCast_96x96_115
+  - first:
+      213: 143332337624542915
+    second: PoisonCast_96x96_116
+  - first:
+      213: -6628765089583491398
+    second: PoisonCast_96x96_117
+  - first:
+      213: 7166479722172021355
+    second: PoisonCast_96x96_118
+  - first:
+      213: 2121201463450643616
+    second: PoisonCast_96x96_119
+  - first:
+      213: 8245119398608871055
+    second: PoisonCast_96x96_120
+  - first:
+      213: -1125087566292390437
+    second: PoisonCast_96x96_121
+  - first:
+      213: 4474480665963834174
+    second: PoisonCast_96x96_122
+  - first:
+      213: 5765656958749546481
+    second: PoisonCast_96x96_123
+  - first:
+      213: 8198427808116568087
+    second: PoisonCast_96x96_124
+  - first:
+      213: 5504905882327989411
+    second: PoisonCast_96x96_125
+  - first:
+      213: 29023335964405982
+    second: PoisonCast_96x96_126
+  - first:
+      213: -2809796247305651590
+    second: PoisonCast_96x96_127
+  - first:
+      213: -104438701091860580
+    second: PoisonCast_96x96_128
+  - first:
+      213: -4394691395263681195
+    second: PoisonCast_96x96_129
+  - first:
+      213: -5299124501234526113
+    second: PoisonCast_96x96_130
+  - first:
+      213: -8471569967999369850
+    second: PoisonCast_96x96_131
+  - first:
+      213: 6170359964890047589
+    second: PoisonCast_96x96_132
+  - first:
+      213: 2160845895690463308
+    second: PoisonCast_96x96_133
+  - first:
+      213: -6441481013451662947
+    second: PoisonCast_96x96_134
+  - first:
+      213: 6398664044035398869
+    second: PoisonCast_96x96_135
+  - first:
+      213: -1363571134599567817
+    second: PoisonCast_96x96_136
+  - first:
+      213: 3817202442565900816
+    second: PoisonCast_96x96_137
+  - first:
+      213: -2070553253372515204
+    second: PoisonCast_96x96_138
+  - first:
+      213: -7324800203631260963
+    second: PoisonCast_96x96_139
+  - first:
+      213: -4309400828957329010
+    second: PoisonCast_96x96_140
+  - first:
+      213: -6310632868968650108
+    second: PoisonCast_96x96_141
+  - first:
+      213: -6513483345180228640
+    second: PoisonCast_96x96_142
+  - first:
+      213: 4225110110054253839
+    second: PoisonCast_96x96_143
+  - first:
+      213: -7824524483978457111
+    second: PoisonCast_96x96_144
+  - first:
+      213: -5244083949796568695
+    second: PoisonCast_96x96_145
+  - first:
+      213: 3612824555611532554
+    second: PoisonCast_96x96_146
+  - first:
+      213: -2196732899995857115
+    second: PoisonCast_96x96_147
+  - first:
+      213: 5721440284325054428
+    second: PoisonCast_96x96_148
+  - first:
+      213: -2559984150877321464
+    second: PoisonCast_96x96_149
+  - first:
+      213: 2908313300552886994
+    second: PoisonCast_96x96_150
+  - first:
+      213: 4155823036800401607
+    second: PoisonCast_96x96_151
+  - first:
+      213: -4180001637279308324
+    second: PoisonCast_96x96_152
+  - first:
+      213: 2879122521192524963
+    second: PoisonCast_96x96_153
+  - first:
+      213: -2563964582461235431
+    second: PoisonCast_96x96_154
+  - first:
+      213: 8311925547982900643
+    second: PoisonCast_96x96_155
+  - first:
+      213: -3654272480308970136
+    second: PoisonCast_96x96_156
+  - first:
+      213: 7647770027945040655
+    second: PoisonCast_96x96_157
+  - first:
+      213: -3576332771616209076
+    second: PoisonCast_96x96_158
+  - first:
+      213: 2598694677419794680
+    second: PoisonCast_96x96_159
+  - first:
+      213: -3201384473731771692
+    second: PoisonCast_96x96_160
+  - first:
+      213: 2505914077534341036
+    second: PoisonCast_96x96_161
+  - first:
+      213: -7222730657930642211
+    second: PoisonCast_96x96_162
+  - first:
+      213: 2285283283049196344
+    second: PoisonCast_96x96_163
+  - first:
+      213: 15543951916778943
+    second: PoisonCast_96x96_164
+  - first:
+      213: 1675691988892613767
+    second: PoisonCast_96x96_165
+  - first:
+      213: 8137807783351564415
+    second: PoisonCast_96x96_166
+  - first:
+      213: 63580769731556619
+    second: PoisonCast_96x96_167
+  - first:
+      213: 8494113851558061377
+    second: PoisonCast_96x96_168
+  - first:
+      213: 941575420012211043
+    second: PoisonCast_96x96_169
+  - first:
+      213: -185160467100479163
+    second: PoisonCast_96x96_170
+  - first:
+      213: 1883360726182054118
+    second: PoisonCast_96x96_171
+  - first:
+      213: -7143957412323311802
+    second: PoisonCast_96x96_172
+  - first:
+      213: -6410931409764297665
+    second: PoisonCast_96x96_173
+  - first:
+      213: -9026535817686662877
+    second: PoisonCast_96x96_174
+  - first:
+      213: 1216714149115866994
+    second: PoisonCast_96x96_175
+  - first:
+      213: -608190965949179027
+    second: PoisonCast_96x96_176
+  - first:
+      213: -6971035626699124161
+    second: PoisonCast_96x96_177
+  - first:
+      213: -440548219270795147
+    second: PoisonCast_96x96_178
+  - first:
+      213: -142612035768977981
+    second: PoisonCast_96x96_179
+  - first:
+      213: 7529810315418098318
+    second: PoisonCast_96x96_180
+  - first:
+      213: -671201338330572580
+    second: PoisonCast_96x96_181
+  - first:
+      213: 61902236274263484
+    second: PoisonCast_96x96_182
+  - first:
+      213: -5823006892103689635
+    second: PoisonCast_96x96_183
+  - first:
+      213: -5959939926668981955
+    second: PoisonCast_96x96_184
+  - first:
+      213: -474374603089364272
+    second: PoisonCast_96x96_185
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PoisonCast_96x96_0
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 0
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e766132861524ec498e9be1ff838aee1
+      internalID: -1764037786099705308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_1
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 83
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ef128450f67d547a878fe326f40c36
+      internalID: 18912290083943254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_2
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 90
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c73efd106fbbd4e830e379c174900d
+      internalID: -2351075752426849548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_3
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 87
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be19d82d7f3b86a45a7c2e8dc6e6ba61
+      internalID: 3297080804441319976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_4
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 92
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d6d82823816184198ac5a073ee4b5f
+      internalID: -1434933692114799094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_5
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 88
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e115fb529d2f5c4d932c78bc3c8c385
+      internalID: -8841002919840976149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_6
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 90
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188f53444401c6f409ee1bbb0d12f386
+      internalID: -7537316136923920384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_7
+      rect:
+        serializedVersion: 2
+        x: 3806
+        y: 92
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb10524e2f9d834fb8c483c5d122b90
+      internalID: 532583471548465327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_8
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 6
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f1b1b52dd860849aba195fbd93af56
+      internalID: 4098741056084204285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_9
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 4
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7219efc525aa5a746b9c303e8d93025d
+      internalID: -4774829671958148424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_10
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 2
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58bb5d162c60d44a963c8c339aff7b3
+      internalID: 4225378191670586595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_11
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 85
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614d6ad6b10d6ab48b04aec10d074b56
+      internalID: 3972789136251108334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_12
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 87
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7794d3a50ffa7648ba2c2f8b48179dc
+      internalID: -1052492931193180150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_13
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 85
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d6cf8f7f2fcfa4d84bcaf175590185
+      internalID: -6183212437548477024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_14
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 87
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5919d10d3798594681ac5c34888b616
+      internalID: 5771475994723754457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_15
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 85
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675314065b542c5428f1bdc57a79ef67
+      internalID: 1777603505668162114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_16
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 88
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c0a0a65f3b97a499b593cad75cd375
+      internalID: 3357291377336947827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_17
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 79
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b5241bf819da4781c4af093a6b8a3
+      internalID: 4985061911110405754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_18
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 81
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eec449fdf68d374b88e1ef73b9572ff
+      internalID: -5426989771602323801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_19
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 88
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f39c924eb6ab4439b385d1cb3ebada
+      internalID: 200082129662454447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_20
+      rect:
+        serializedVersion: 2
+        x: 3814
+        y: 83
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e61c08153bb8b741a4df4942ba929b0
+      internalID: 9000503880317984708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_21
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 9
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44a5cbcd1bf8824a88dabc94cbd7ea7
+      internalID: 1826054333535505553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_22
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 9
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd12cfbaee78a094388bb16ac982d8ab
+      internalID: -2477362496898632845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_23
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 6
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1defcfe1d90f04ebafd8d1f17f93a8
+      internalID: 5133567144660148537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_24
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 77
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f524a857a4bfb748bf7a6aeda27832c
+      internalID: -9116965856850453773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_25
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 79
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b482cc46aeb8de341af2d58f27ece4fc
+      internalID: 6517695299316787051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_26
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 77
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693827da50e19a34eb07bb0c004850e4
+      internalID: -6892173340956869264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_27
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f367037c75d442a7e4ae1b1a267d0
+      internalID: 1667229020423282943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_28
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 73
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a073df03f87b347b3937ae39e5cc8a
+      internalID: 7269565859423945934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_29
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 79
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69de479ec392aa744948de2dbf26c020
+      internalID: -1225447601376475221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_30
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 83
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3025189dcb779c140b504761ecc6760e
+      internalID: 286992720826618708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_31
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19d528dbd17f0d4b902f7088eef6088
+      internalID: 7863198633947334177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_32
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 81
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18925a20f88c5e2458feaedae4309fe4
+      internalID: 3913982464130256145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_33
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 75
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc53055c5563126449fcb9766c36f218
+      internalID: -348731921327524282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_34
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 81
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0751beea0a986fc4f902beab01d64353
+      internalID: 874791016409482585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_35
+      rect:
+        serializedVersion: 2
+        x: 3426
+        y: 77
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d84b10a6dc9342459866cc537bf39e2
+      internalID: -5555044862951790627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_36
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 79
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21f83e0229364d458dc5a1f9b1039c5
+      internalID: 7738032164747475641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_37
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 81
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a32880213858a443a6bc451ac840396
+      internalID: 6140862158963142708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_38
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 15
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed6855d093a98a40baf4717cc5ede96
+      internalID: -1482229555794778704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_39
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 13
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9d6353fa0a5044286711e15ee5b996
+      internalID: -1384109931251223919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_40
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 11
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b544923cd8aa148ad2ff40cdbc90e0
+      internalID: -8086590512063761236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_41
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 73
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b469774b71fde640934c3c811e33dc9
+      internalID: 3486567769753299628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_42
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 75
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f931ee446f291e64c9fea7c9a96af0a4
+      internalID: 6119786739757502377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_43
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 53
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a0855bdba3fc1419b1b4dc4406e4ad
+      internalID: 3024831534483711476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_44
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 73
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bfcc061e8283440ac5d9bc5f38b078
+      internalID: -7238514651658712264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_45
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 53
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea91bab0284ecea4991f82158920845c
+      internalID: -1621358072607957652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_46
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 75
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71f3b6886920ab4dbdd5de8841256ac
+      internalID: -1008375318457346412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_47
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 72
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41606478bff2a1c4d894ac8b258ec337
+      internalID: -3520009396893907347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_48
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 75
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caace5cba67616d4e9b48feb235a5058
+      internalID: -7188030341246290894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_49
+      rect:
+        serializedVersion: 2
+        x: 3471
+        y: 77
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b98c349abcb44048a650a3b6eecd08e
+      internalID: 6919182448449697729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_50
+      rect:
+        serializedVersion: 2
+        x: 3566
+        y: 77
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0203d6ff5614d418ad29e6022cabf6
+      internalID: 5824546052742831828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_51
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 79
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada9c2d5c3577a14585b09aa432d1ce6
+      internalID: -4638334703626669718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_52
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 17
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4ea53b863ad9f43a645d7d521deebd
+      internalID: 5958394828089087184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_53
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 15
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b970537a83a0c934fb3f5d65d79e0cfa
+      internalID: 7043781351261956700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_54
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 72
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317330c8f78f562448c218dafd900121
+      internalID: -6078647122684153056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_55
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 73
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93550c539d1fb7546bc0ae1d6417d9f9
+      internalID: -1418924072758065894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_56
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d3ef45a00031346a800543b99c7f31
+      internalID: 6639329124491363018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_57
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 75
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9f201c38cc81e458bc64b7cb5b3b1c
+      internalID: -3926408599811392872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_58
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 72
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e319309fc76fe324fbcf63b31c983b7d
+      internalID: 4112444865252153972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_59
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 73
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6661fc41b58413649b0b428df445f939
+      internalID: 6942203088390785088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_60
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 23
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518b9890558295a469711cdfa00f1a1b
+      internalID: 5035674670055344005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_61
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 23
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4f770126ef59b4684c5544110386b7
+      internalID: 2829833590897489549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_62
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 21
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0790acccf20e61348aa2cdc6aa3792af
+      internalID: -1493699218866431922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_63
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 19
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f6053bb7402e241b3d14f895ddc213
+      internalID: 3736029786445038760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_64
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 66
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8310902c42caf4fbcd6447f91eb3a0
+      internalID: -8730362920830274545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_65
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e3f1102f6286e409969f3d93954127
+      internalID: 3425527131794782383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_66
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 70
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2b35ccea0966c4abb7ef47a5d3d3fd
+      internalID: 960045581347766531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_67
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 55
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0e765767caa954e8dbeb507e8b7da6
+      internalID: -1104787639568069028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_68
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 56
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cb81a61ed091441891d5f95e7f4b03
+      internalID: 8338741154348233085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_69
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 56
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec751b100a9f2694c9498f8e6286d466
+      internalID: -2889371639344759590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_70
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463949dd78be575469a0ddd925099393
+      internalID: 755813690650611897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_71
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 58
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2931a92b9112ffb4ca997c7388d43b57
+      internalID: -6382218006151382062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_72
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 66
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e959faefc4d9164a8699a76fef48897
+      internalID: 8031722491371299615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_73
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 66
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59010f7620f9554184be64a1ec004f3
+      internalID: -6885806616112003322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_74
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 58
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4961ddf031687e44890c96056f4d6ca
+      internalID: 3727801562575205475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_75
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 68
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14ae0baff455b943bac7f5d561b1482
+      internalID: -2825789186818876634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_76
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d311afd3e8cb04284f66c5b8c7dff5
+      internalID: -8354472853039217204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_77
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 26
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b98a12febfa4f44aae2097483e86ce4
+      internalID: -9053644856729823642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_78
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 26
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7a7ac37d1a6bf42b6f089c416adbfc
+      internalID: 4669850793730436625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_79
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 55
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cdeb19b536d1148a7187560bbe687b
+      internalID: -7275666628898143902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_80
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12961a47f7d7b6242accb93df52cba98
+      internalID: -3580091589998301827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_81
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 62
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e82a649a6b5bec40852b802b3dd452c
+      internalID: 3686230349709316266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_82
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 64
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1753da67c9727c438f10c23aad6e563
+      internalID: 2462373754928775438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_83
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 64
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e5dbb76fa204d44bc90e8a1633a832
+      internalID: 2864611454871138604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_84
+      rect:
+        serializedVersion: 2
+        x: 3442
+        y: 64
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3a6184306681c40ba2da106bf742c3
+      internalID: -5986166515046545009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_85
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 64
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434621dd4ccd11e4fb8be5fcce3b9451
+      internalID: 274162255177224512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_86
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 66
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91959eab024c8ad43b2fda1caa032b28
+      internalID: -3416913760629943159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_87
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688aadc65811a204f996967575ea6b20
+      internalID: 658468201374058953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_88
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472f15a8654fcc445afc5481a424149a
+      internalID: 5600662482662793420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_89
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 30
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33703cf8e9668aa4fa1e9ff5351c3ace
+      internalID: 7740685205914224592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_90
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 28
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e8e560c715b2a4c8121cacdca1946e
+      internalID: -482828094803042873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_91
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 58
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705e657889fe7ac4290eb8ff0b162264
+      internalID: -46436410716753290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_92
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e08bd3b4ec0d945bedd9ef050b7248
+      internalID: -965561996786129349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_93
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 60
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdfa14b2cc51654cabf2e476a0cbd62
+      internalID: -7397707476982451485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_94
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 56
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f573b9a434311664e92153005ff2770d
+      internalID: 8427592954665137726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_95
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 58
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e494790d802f6cf458ed46883359304e
+      internalID: -1815824262220793273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_96
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 60
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfee3a61e61d13149a13efc8a833a9b9
+      internalID: -2747868880903941367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_97
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 43
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eea8d89c25aa1048bf4cdee5b67fb4d
+      internalID: -200799660218496841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_98
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 43
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e535d35f00b256245b0e5f5777e567e3
+      internalID: -2728545815548116818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_99
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 40
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b755fded3126eb48ad86990edd01fa2
+      internalID: -3624266175901588041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_100
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 38
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5380daf866d99e9418b3970b1cf41ffa
+      internalID: 2745558904830376243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_101
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 38
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59cfb501c19c8f4cb892cf7e6361fab
+      internalID: 2922469496497702603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_102
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 36
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f159cf2323d8743b8251383905bd98
+      internalID: -300259377428131676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_103
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 34
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c11e08526a8cc479828100b89c2e1d
+      internalID: 1711243817508725790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_104
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 40
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136513aebb451314fad428e81c48490b
+      internalID: 6985371678028244543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_105
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 24
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b6b1b0b565ecd458b029e3e355c434
+      internalID: -1727405295170408785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_106
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 38
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d71b6671a97384785ef9f5a2b2e4d6
+      internalID: -5832387053397598460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_107
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 24
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07d2ac6929425343bbb45d1d3f45246
+      internalID: -7377035401054115262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_108
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 38
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be00efd741dfbe4b9ddc412193708be
+      internalID: 2000409809015953453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_109
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 23
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20530ff93c5ad1943851f03cad073ab4
+      internalID: 3629152985369150567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_110
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 23
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7777773eb7ed5fa43b09270a771da529
+      internalID: 1036791013643477927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_111
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 32
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac0ad4cc374d0846b7bd970a693ab03
+      internalID: -6145131528428459717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_112
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 45
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc64b9bc9175fca4ba7aa6e631c5763f
+      internalID: -6484396327646523052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_113
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047111badee2827459f3aa9f0197829d
+      internalID: -355606021782032135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_114
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 45
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffae97a25bccb1408d29dae0f11424f
+      internalID: -5703877718808877270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_115
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f320033e20a05f4a82fb46593650bc7
+      internalID: 418251299642371106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_116
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 30
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37efd7fedf479544952208e24eb7436
+      internalID: 143332337624542915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_117
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 38
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e5b93f39a203e4fb6040a858dc9d0e
+      internalID: -6628765089583491398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_118
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d6e135d14d4f84592d2bdc585da281
+      internalID: 7166479722172021355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_119
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e8b2409647ccd4f9d55b3880ee3f9e
+      internalID: 2121201463450643616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_120
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce71c17f5facf9940a2a7731301eb27d
+      internalID: 8245119398608871055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_121
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 38
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15672141220f8024484d0cead0212d24
+      internalID: -1125087566292390437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_122
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 30
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e488375ad2e2231478d6849d291d6eb1
+      internalID: 4474480665963834174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_123
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 38
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db37a27bdca902b42bc5df437ab5a55a
+      internalID: 5765656958749546481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_124
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76782f76f39a651478d8486f5ca7dded
+      internalID: 8198427808116568087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_125
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83847efd3587aa044afb27af8942ed4e
+      internalID: 5504905882327989411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_126
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 30
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8077347ee5bc5c341b1f57be47b500ae
+      internalID: 29023335964405982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_127
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 0
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13d5165489c84545bd003eb467ebf8a
+      internalID: -2809796247305651590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_128
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 17
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1c59b5e989a5842b2ac86a58a1879c
+      internalID: -104438701091860580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_129
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 15
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6425fae8e16f945bd1417f2951722f
+      internalID: -4394691395263681195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_130
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 13
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e13b767be158b469a5982b7c5041c6
+      internalID: -5299124501234526113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_131
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0384201af7470248933e8133f8c3bcf
+      internalID: -8471569967999369850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_132
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 11
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b783861c4d9eba44982e80a65ec742e1
+      internalID: 6170359964890047589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_133
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 21
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0af1d4ca27b4314698ee475e60579bb
+      internalID: 2160845895690463308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_134
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 26
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a82c36beeed9b41840be5ee524691f
+      internalID: -6441481013451662947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_135
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 21
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e53d5913444841a49429a44ac18fd
+      internalID: 6398664044035398869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_136
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc1ff03619260a44bcb3bf565a37105
+      internalID: -1363571134599567817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_137
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 13
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd102beabb213d4491f247b54f88017
+      internalID: 3817202442565900816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_138
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 19
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6bafc47663266448360b93c575cafd
+      internalID: -2070553253372515204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_139
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 24
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da3e08998e7f7d4aad767a7bb2532a5
+      internalID: -7324800203631260963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_140
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7de85c0c93b9d4199becd881b68d4c
+      internalID: -4309400828957329010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_141
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 11
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcbf9f3e0812a84bbe681aece69ec78
+      internalID: -6310632868968650108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_142
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7633a4c5698b23c4897e7242857fe684
+      internalID: -6513483345180228640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_143
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 23
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ea8464e174ebd4d8616e16a5cf12ab
+      internalID: 4225110110054253839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_144
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e11089992adfde4390abe1a56903a23
+      internalID: -7824524483978457111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_145
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d511198b81c6eb468e4838adf7494ec
+      internalID: -5244083949796568695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_146
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 13
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b01a905a028bc640a49e0363f2fca58
+      internalID: 3612824555611532554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_147
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433aa9dbc5e6c9540b21a58dc47f1564
+      internalID: -2196732899995857115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_148
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 11
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6b8b69dbd08694a9d93b9c8cb43fea
+      internalID: 5721440284325054428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_149
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee1cb0d94f72804b9fe9e3f605e630b
+      internalID: -2559984150877321464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_150
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a41c59ec2bfb0049a9de3bebcf0e69e
+      internalID: 2908313300552886994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_151
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 13
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22117e28d839724449128716c24368e6
+      internalID: 4155823036800401607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_152
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 15
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25981a7d97a2b04a8a44aaa563d8885
+      internalID: -4180001637279308324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_153
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 13
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c104fe526a423f64e947599fdebecfa8
+      internalID: 2879122521192524963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_154
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 8
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1134ca1039ab58248bb4f10def9576cf
+      internalID: -2563964582461235431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_155
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 9
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0884d40bfc9c6340bacede362d6a2ad
+      internalID: 8311925547982900643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_156
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23318371f7b95f4687f99a6e1218302
+      internalID: -3654272480308970136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_157
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 9
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ac1cc6eb7baa646819187799ca6903
+      internalID: 7647770027945040655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_158
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 9
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e7d2d953380584389e0edb325414ef
+      internalID: -3576332771616209076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_159
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 13
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db9d1652056e8a40a06373e98610444
+      internalID: 2598694677419794680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_160
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 9
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b775f50387993148a3325959243c5b9
+      internalID: -3201384473731771692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_161
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a0def7a5c944a49ae58192dd9e1b4b
+      internalID: 2505914077534341036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_162
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb20fbff959fd6f4ea0806a427eed145
+      internalID: -7222730657930642211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_163
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7665feab289a6e242bb3f0721228d508
+      internalID: 2285283283049196344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_164
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 6
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883b5277458380040b766af7288b41f0
+      internalID: 15543951916778943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_165
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 8
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95abf0c593ff47d48a09abfe5f436144
+      internalID: 1675691988892613767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_166
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99479889fbe1394abdae69c85144398
+      internalID: 8137807783351564415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_167
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c500116ee519244817723c3fa5f620
+      internalID: 63580769731556619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_168
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9035d7827534dce489a61d2e0e21c6e9
+      internalID: 8494113851558061377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_169
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef01510379b7e24187eced0b4898567
+      internalID: 941575420012211043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_170
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 4
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765a8fd361bb3d144860a4a2691782bb
+      internalID: -185160467100479163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_171
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 4
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a312c59430153594b9a2ce16fc44a321
+      internalID: 1883360726182054118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_172
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dd995ea49abf148b187fd912f933dc
+      internalID: -7143957412323311802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_173
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98ae48e3f027b14680845da793b2cec
+      internalID: -6410931409764297665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_174
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 2
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d33b9bd4444c6f448c901a92c3d3fdb
+      internalID: -9026535817686662877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_175
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 4
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceebb0897e417e4eb153bd8577f70b9
+      internalID: 1216714149115866994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_176
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409dcde6295846444b7ab12b37837883
+      internalID: -608190965949179027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_177
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fb42c109c43924f9169bea72a8a722
+      internalID: -6971035626699124161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_178
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 2
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b14bbb36ada1e2409c0491139a94138
+      internalID: -440548219270795147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_179
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c6ea8392bf9d7489693ec0d4df9faa
+      internalID: -142612035768977981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_180
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5dc536f9e6c024aaa4d11e83fded77
+      internalID: 7529810315418098318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_181
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 2
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26de7b812d537c145a631261cfc760bd
+      internalID: -671201338330572580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_182
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 2
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888040f29ed178a4ba4c3bc7e898882f
+      internalID: 61902236274263484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_183
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 0
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211c4b458c55b544ebdcd46721132712
+      internalID: -5823006892103689635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_184
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 0
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabaca18220b5254e802b4e563640d35
+      internalID: -5959939926668981955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonCast_96x96_185
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 0
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0859c58867640546a6e865d96deb056
+      internalID: -474374603089364272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

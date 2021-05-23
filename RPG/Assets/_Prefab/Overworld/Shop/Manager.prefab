@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5373937897501321420
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5373937897501321418}
+  - component: {fileID: 5373937897501321417}
+  - component: {fileID: 5373937897501321419}
+  - component: {fileID: 5373937897501321416}
+  - component: {fileID: 5373937897501321431}
+  m_Layer: 0
+  m_Name: Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5373937897501321418
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5373937897501321420}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.5, y: -1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5373937897501321417
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5373937897501321420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1de9dec24fad46489edea64b8168e66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rpg: {fileID: 0}
+  attribute: {fileID: 0}
+  skills: {fileID: 0}
+  scene: {fileID: 0}
+  attack: {fileID: 0}
+  mana: {fileID: 0}
+  defense: {fileID: 0}
+  lvlsComplete: {fileID: 0}
+  health: {fileID: 0}
+  manaPoints: {fileID: 0}
+  potionStats: {fileID: 0}
+  maxPotionStats: {fileID: 0}
+  etherStats: {fileID: 0}
+  maxEtherStats: {fileID: 0}
+  firedropStats: {fileID: 0}
+  fireSpinStats: {fileID: 0}
+  thunderStats: {fileID: 0}
+  vortexStats: {fileID: 0}
+  attackStats: {fileID: 0}
+  defenseStats: {fileID: 0}
+  magicStats: {fileID: 0}
+  attackImg: {fileID: 0}
+  defenseImg: {fileID: 0}
+  magicImg: {fileID: 0}
+  potionImg: {fileID: 0}
+  maxPotionImg: {fileID: 0}
+  etherImg: {fileID: 0}
+  maxEtherImg: {fileID: 0}
+  fireDropImg: {fileID: 0}
+  fireSpinImg: {fileID: 0}
+  thunderImg: {fileID: 0}
+  vortexImg: {fileID: 0}
+  fireDrop: {fileID: 0}
+  fireSpin: {fileID: 0}
+  thunder: {fileID: 0}
+  vortex: {fileID: 0}
+  healthBar: {fileID: 0}
+  manaBar: {fileID: 0}
+  stats:
+    health: {fileID: 0}
+    magic: {fileID: 0}
+    time: {fileID: 0}
+    healthFill: {fileID: 0}
+    magicFill: {fileID: 0}
+    red: {fileID: 0}
+    green: {fileID: 0}
+  shop: 0
+  settings: {fileID: 0}
+--- !u!114 &5373937897501321419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5373937897501321420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 636aacff099fdcb4cb973d95be46c0f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  platform: {fileID: 0}
+  platforms:
+  - {fileID: 4615069733327513443, guid: d9c7406f18d8e694fa0728c8376df0b3, type: 3}
+  specialPlatforms: []
+  generationPoint: {fileID: 0}
+  generationPointY: {fileID: 0}
+  distanceBetween: 0
+  platformWidth: 6
+  platformWidthY: 4
+  errorHelp: 0
+--- !u!114 &5373937897501321416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5373937897501321420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01c7e0982c62c9844a08f8e0e87814d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chooseShop: {fileID: 0}
+  upgradeShop: {fileID: 0}
+  skillShop: {fileID: 0}
+  itemShop: {fileID: 0}
+  panel: {fileID: 0}
+  shop: 0
+--- !u!114 &5373937897501321431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5373937897501321420}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fadffcfdc4957c48afebc7bec8d568d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: {fileID: 0}
+  mana: {fileID: 0}
+  killCount: {fileID: 0}
+  coins: {fileID: 0}
+  healthBar: {fileID: 0}
+  manaBar: {fileID: 0}

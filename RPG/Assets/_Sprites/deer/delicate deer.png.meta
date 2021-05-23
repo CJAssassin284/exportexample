@@ -1,0 +1,2663 @@
+fileFormatVersion: 2
+guid: ffb279191c6836b4aa3ff836fb981679
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6316513807916578132
+    second: delicate deer_0
+  - first:
+      213: -4969586665928828847
+    second: delicate deer_1
+  - first:
+      213: -8675915013541649156
+    second: delicate deer_2
+  - first:
+      213: -7665263690273132064
+    second: delicate deer_3
+  - first:
+      213: -7594422073772443388
+    second: delicate deer_4
+  - first:
+      213: -5416481606721087070
+    second: delicate deer_5
+  - first:
+      213: -3166540412360710643
+    second: delicate deer_6
+  - first:
+      213: -6316304438446703644
+    second: delicate deer_7
+  - first:
+      213: 275481333976927072
+    second: delicate deer_8
+  - first:
+      213: -8759599710517936650
+    second: delicate deer_9
+  - first:
+      213: 8606070941388580799
+    second: delicate deer_10
+  - first:
+      213: -7215257379655124887
+    second: delicate deer_11
+  - first:
+      213: 8789972115158487718
+    second: delicate deer_12
+  - first:
+      213: -8409226792466438786
+    second: delicate deer_13
+  - first:
+      213: -282661569526739405
+    second: delicate deer_14
+  - first:
+      213: 1496068871184289771
+    second: delicate deer_15
+  - first:
+      213: 2001064397734753502
+    second: delicate deer_16
+  - first:
+      213: -3942642661523168755
+    second: delicate deer_17
+  - first:
+      213: -5924094545500939375
+    second: delicate deer_18
+  - first:
+      213: 4043771382271050066
+    second: delicate deer_19
+  - first:
+      213: -1920289508394986591
+    second: delicate deer_20
+  - first:
+      213: 6853393657206659694
+    second: delicate deer_21
+  - first:
+      213: 995354416725379699
+    second: delicate deer_22
+  - first:
+      213: 4244875057085770311
+    second: delicate deer_23
+  - first:
+      213: 3690379289844467647
+    second: delicate deer_24
+  - first:
+      213: 1513067220931905353
+    second: delicate deer_25
+  - first:
+      213: -2185062300368736825
+    second: delicate deer_26
+  - first:
+      213: 8350743707697659387
+    second: delicate deer_27
+  - first:
+      213: -6452062683234415894
+    second: delicate deer_28
+  - first:
+      213: 5696368532830060236
+    second: delicate deer_29
+  - first:
+      213: 6845719522149131587
+    second: delicate deer_30
+  - first:
+      213: -8121511883980166702
+    second: delicate deer_31
+  - first:
+      213: 1792450880140014372
+    second: delicate deer_32
+  - first:
+      213: 7522879939301054924
+    second: delicate deer_33
+  - first:
+      213: 5361481838862906219
+    second: delicate deer_34
+  - first:
+      213: 5005972591405051930
+    second: delicate deer_35
+  - first:
+      213: 6351997300548522922
+    second: delicate deer_36
+  - first:
+      213: 962283421725026506
+    second: delicate deer_37
+  - first:
+      213: 5756067992513557933
+    second: delicate deer_38
+  - first:
+      213: -6258063277413953786
+    second: delicate deer_39
+  - first:
+      213: 6943106878023310343
+    second: delicate deer_40
+  - first:
+      213: -2759732372710600076
+    second: delicate deer_41
+  - first:
+      213: 8028574879926563868
+    second: delicate deer_42
+  - first:
+      213: -2243173195326903999
+    second: delicate deer_43
+  - first:
+      213: 2448657797747012432
+    second: delicate deer_44
+  - first:
+      213: -2819886159075030996
+    second: delicate deer_45
+  - first:
+      213: -1577749858552190501
+    second: delicate deer_46
+  - first:
+      213: 9001232850256836762
+    second: delicate deer_47
+  - first:
+      213: -471271473836987253
+    second: delicate deer_48
+  - first:
+      213: 5426146436972810097
+    second: delicate deer_49
+  - first:
+      213: 1407828312966186343
+    second: delicate deer_50
+  - first:
+      213: -7527253101868063048
+    second: delicate deer_51
+  - first:
+      213: -3230607614541380535
+    second: delicate deer_52
+  - first:
+      213: -1312720084602585256
+    second: delicate deer_53
+  - first:
+      213: 8666855743409396730
+    second: delicate deer_54
+  - first:
+      213: -7813434383863870816
+    second: delicate deer_55
+  - first:
+      213: -4804624186919830431
+    second: delicate deer_56
+  - first:
+      213: -5655582569518419961
+    second: delicate deer_57
+  - first:
+      213: 6422378057994971665
+    second: delicate deer_58
+  - first:
+      213: -7520275215863184984
+    second: delicate deer_59
+  - first:
+      213: -4637244036454262881
+    second: delicate deer_60
+  - first:
+      213: -1828520942578871165
+    second: delicate deer_61
+  - first:
+      213: -8838153021613736678
+    second: delicate deer_62
+  - first:
+      213: 6655222215162154067
+    second: delicate deer_63
+  - first:
+      213: 3144473162202035857
+    second: delicate deer_64
+  - first:
+      213: -7181751477732081031
+    second: delicate deer_65
+  - first:
+      213: -6023565941855425933
+    second: delicate deer_66
+  - first:
+      213: 7316001415613121608
+    second: delicate deer_67
+  - first:
+      213: -3349087403369086880
+    second: delicate deer_68
+  - first:
+      213: 4261052247271591599
+    second: delicate deer_69
+  - first:
+      213: -8824147402176970162
+    second: delicate deer_70
+  - first:
+      213: 4896751835512229494
+    second: delicate deer_71
+  - first:
+      213: 2894218519677725373
+    second: delicate deer_72
+  - first:
+      213: 7516348806112271298
+    second: delicate deer_73
+  - first:
+      213: 7567227135638567616
+    second: delicate deer_74
+  - first:
+      213: -6816396509959458906
+    second: delicate deer_75
+  - first:
+      213: -2798829801064742008
+    second: delicate deer_76
+  - first:
+      213: 176866074283957889
+    second: delicate deer_77
+  - first:
+      213: -3237189745606478397
+    second: delicate deer_78
+  - first:
+      213: -4779343646093156266
+    second: delicate deer_79
+  - first:
+      213: -1084974204840102447
+    second: delicate deer_80
+  - first:
+      213: -7674921650727087392
+    second: delicate deer_81
+  - first:
+      213: -6153082897356466319
+    second: delicate deer_82
+  - first:
+      213: -3573544530771276104
+    second: delicate deer_83
+  - first:
+      213: 2103000214594292352
+    second: delicate deer_84
+  - first:
+      213: -8385895399231701376
+    second: delicate deer_85
+  - first:
+      213: 1339807979747473632
+    second: delicate deer_86
+  - first:
+      213: 3806407132896024491
+    second: delicate deer_87
+  - first:
+      213: 1670272661353300476
+    second: delicate deer_88
+  - first:
+      213: 8941402273190369005
+    second: delicate deer_89
+  - first:
+      213: -504506487032588050
+    second: delicate deer_90
+  - first:
+      213: 6309979888992250734
+    second: delicate deer_91
+  - first:
+      213: 3594760475079688669
+    second: delicate deer_92
+  - first:
+      213: 4754921279424869076
+    second: delicate deer_93
+  - first:
+      213: 5200766022897653189
+    second: delicate deer_94
+  - first:
+      213: 4563902475278227393
+    second: delicate deer_0
+  - first:
+      213: 8770073847837281228
+    second: delicate deer_1
+  - first:
+      213: -7160507723437582803
+    second: delicate deer_2
+  - first:
+      213: -1997895685234810354
+    second: delicate deer_3
+  - first:
+      213: -3829880677517801149
+    second: delicate deer_4
+  - first:
+      213: 3031842235976515478
+    second: delicate deer_5
+  - first:
+      213: 3087464526464755052
+    second: delicate deer_6
+  - first:
+      213: -4196410874778574849
+    second: delicate deer_7
+  - first:
+      213: 4118457168303754445
+    second: delicate deer_8
+  - first:
+      213: 2875290160751788923
+    second: delicate deer_9
+  - first:
+      213: 977297940446201160
+    second: delicate deer_10
+  - first:
+      213: -3270340395333372014
+    second: delicate deer_11
+  - first:
+      213: 8557136712225485787
+    second: delicate deer_12
+  - first:
+      213: 4478920790320969033
+    second: delicate deer_13
+  - first:
+      213: -6654255482358505721
+    second: delicate deer_14
+  - first:
+      213: -8178981545889988266
+    second: delicate deer_15
+  - first:
+      213: -3040849791225674159
+    second: delicate deer_16
+  - first:
+      213: -7828801060313264900
+    second: delicate deer_17
+  - first:
+      213: 2148632642441655882
+    second: delicate deer_18
+  - first:
+      213: 5948700829182384890
+    second: delicate deer_19
+  - first:
+      213: -3468420080104647309
+    second: delicate deer_20
+  - first:
+      213: 431885955480121158
+    second: delicate deer_21
+  - first:
+      213: -5812245171547076685
+    second: delicate deer_22
+  - first:
+      213: -773207988289540280
+    second: delicate deer_23
+  - first:
+      213: 5662407007998724997
+    second: delicate deer_24
+  - first:
+      213: 3996731139491050195
+    second: delicate deer_25
+  - first:
+      213: 5924723378451851748
+    second: delicate deer_26
+  - first:
+      213: 5006997451959399964
+    second: delicate deer_27
+  - first:
+      213: 8282631159333343815
+    second: delicate deer_28
+  - first:
+      213: 5102337138828783523
+    second: delicate deer_29
+  - first:
+      213: -8192346640183433699
+    second: delicate deer_30
+  - first:
+      213: 4622541730949592268
+    second: delicate deer_31
+  - first:
+      213: -7132661872624300946
+    second: delicate deer_32
+  - first:
+      213: -5303357074183621614
+    second: delicate deer_33
+  - first:
+      213: -9070952661832007152
+    second: delicate deer_34
+  - first:
+      213: -2974193602379184209
+    second: delicate deer_35
+  - first:
+      213: 4354606652887315373
+    second: delicate deer_36
+  - first:
+      213: 1580934137107594126
+    second: delicate deer_37
+  - first:
+      213: 2274546720882921952
+    second: delicate deer_38
+  - first:
+      213: 7533175224376390846
+    second: delicate deer_39
+  - first:
+      213: -726281483606862489
+    second: delicate deer_40
+  - first:
+      213: -6482003603953097690
+    second: delicate deer_41
+  - first:
+      213: -4664145633198328280
+    second: delicate deer_42
+  - first:
+      213: -1193793811016095021
+    second: delicate deer_43
+  - first:
+      213: 4546426710670237525
+    second: delicate deer_44
+  - first:
+      213: 1044641288795793276
+    second: delicate deer_45
+  - first:
+      213: -4988902580215389544
+    second: delicate deer_46
+  - first:
+      213: -4329691419093588786
+    second: delicate deer_47
+  - first:
+      213: -2659093434308501427
+    second: delicate deer_48
+  - first:
+      213: -3159906629038318815
+    second: delicate deer_49
+  - first:
+      213: 4126391014092448325
+    second: delicate deer_50
+  - first:
+      213: 7015018418570788434
+    second: delicate deer_51
+  - first:
+      213: 6242742839759661489
+    second: delicate deer_52
+  - first:
+      213: 3889416411696414813
+    second: delicate deer_53
+  - first:
+      213: 5472838137519740897
+    second: delicate deer_54
+  - first:
+      213: 2908175948738298828
+    second: delicate deer_55
+  - first:
+      213: -7737743682413981904
+    second: delicate deer_56
+  - first:
+      213: -461551120675828450
+    second: delicate deer_57
+  - first:
+      213: 6227427555607565200
+    second: delicate deer_58
+  - first:
+      213: 6601476241008755601
+    second: delicate deer_59
+  - first:
+      213: 5905475535859464978
+    second: delicate deer_60
+  - first:
+      213: -30684176234532869
+    second: delicate deer_61
+  - first:
+      213: -7046378359691965802
+    second: delicate deer_62
+  - first:
+      213: -5938199642662054203
+    second: delicate deer_63
+  - first:
+      213: -8085319442335591357
+    second: delicate deer_64
+  - first:
+      213: 6974324233783073330
+    second: delicate deer_65
+  - first:
+      213: -905951165024268849
+    second: delicate deer_66
+  - first:
+      213: 6426550307601639538
+    second: delicate deer_67
+  - first:
+      213: -2286848226668616712
+    second: delicate deer_68
+  - first:
+      213: 6639080800671077374
+    second: delicate deer_69
+  - first:
+      213: 5827947023912650745
+    second: delicate deer_70
+  - first:
+      213: -766566535378972193
+    second: delicate deer_71
+  - first:
+      213: -2524950133390891703
+    second: delicate deer_72
+  - first:
+      213: 4838532934328332247
+    second: delicate deer_73
+  - first:
+      213: 2692306370333020309
+    second: delicate deer_74
+  - first:
+      213: -3018386301171337112
+    second: delicate deer_75
+  - first:
+      213: -4746244235331230653
+    second: delicate deer_76
+  - first:
+      213: -913730318322594238
+    second: delicate deer_77
+  - first:
+      213: 1195472559870044003
+    second: delicate deer_78
+  - first:
+      213: 7043539177050246436
+    second: delicate deer_79
+  - first:
+      213: -5050857846904844133
+    second: delicate deer_80
+  - first:
+      213: 1891809907445375290
+    second: delicate deer_81
+  - first:
+      213: 6927151222799829739
+    second: delicate deer_82
+  - first:
+      213: 8303046480790765041
+    second: delicate deer_83
+  - first:
+      213: 6663520352282947752
+    second: delicate deer_84
+  - first:
+      213: 8572928750247605079
+    second: delicate deer_85
+  - first:
+      213: 5722342650319542096
+    second: delicate deer_86
+  - first:
+      213: 8797658173251682206
+    second: delicate deer_87
+  - first:
+      213: 7582034114756101190
+    second: delicate deer_88
+  - first:
+      213: -2269038861528568772
+    second: delicate deer_89
+  - first:
+      213: -288488589302869890
+    second: delicate deer_90
+  - first:
+      213: -1036386061975813436
+    second: delicate deer_91
+  - first:
+      213: 7588003485286108717
+    second: delicate deer_92
+  - first:
+      213: 8036063698623248315
+    second: delicate deer_93
+  - first:
+      213: -2050564111989357104
+    second: delicate deer_94
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: delicate deer_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 355
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c71c74ee1d365f30800000000000000
+      internalID: 4563902475278227393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 355
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbc842e2bf85b970800000000000000
+      internalID: 8770073847837281228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 355
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26df0dd924c0ac90800000000000000
+      internalID: -7160507723437582803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 355
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e022b47a57c0644e0800000000000000
+      internalID: -1997895685234810354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 369
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3494b6cb0d789dac0800000000000000
+      internalID: -3829880677517801149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 369
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ff7624374431a20800000000000000
+      internalID: 3031842235976515478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 369
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c652d84f0a0e8da20800000000000000
+      internalID: 3087464526464755052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 369
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff9c3dfa8a53c5c0800000000000000
+      internalID: -4196410874778574849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 354
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc086b59f2b72930800000000000000
+      internalID: 4118457168303754445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 354
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7349c1da2517e720800000000000000
+      internalID: 2875290160751788923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 353
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84544048c4f009d00800000000000000
+      internalID: 977297940446201160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 353
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2973b89ccba6d92d0800000000000000
+      internalID: -3270340395333372014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 353
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd377aa808e01c670800000000000000
+      internalID: 8557136712225485787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 353
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945713c7ab2582e30800000000000000
+      internalID: 4478920790320969033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 323
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f535105e557a3a0800000000000000
+      internalID: -6654255482358505721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 323
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65180cc3e9b6e7e80800000000000000
+      internalID: -8178981545889988266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 323
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1564caad93bbcc5d0800000000000000
+      internalID: -3040849791225674159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 323
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc83d61ae28a5390800000000000000
+      internalID: -7828801060313264900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 339
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a463b8d110a71dd10800000000000000
+      internalID: 2148632642441655882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 340
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afadc76f2e70e8250800000000000000
+      internalID: 5948700829182384890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 340
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375d7894052bddfc0800000000000000
+      internalID: -3468420080104647309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 340
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f6fdffcfd5ef500800000000000000
+      internalID: 431885955480121158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 323
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b70572afc1c65fa0800000000000000
+      internalID: -5812245171547076685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 323
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fe1886e630545f0800000000000000
+      internalID: -773207988289540280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 324
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b427d4c29e49e40800000000000000
+      internalID: 5662407007998724997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 324
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d23b18bbcd377730800000000000000
+      internalID: 3996731139491050195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_26
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 326
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9231da588d83250800000000000000
+      internalID: 5924723378451851748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 326
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16735387ad6c7540800000000000000
+      internalID: 5006997451959399964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 291
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74255a9f721d1f270800000000000000
+      internalID: 8282631159333343815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 291
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af2c2c28942fc640800000000000000
+      internalID: 5102337138828783523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 291
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16600bb220fe4e80800000000000000
+      internalID: -8192346640183433699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 291
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc47ba88631962040800000000000000
+      internalID: 4622541730949592268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 305
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c814b31d1b30d90800000000000000
+      internalID: -7132661872624300946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 305
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214fa34e6d0b666b0800000000000000
+      internalID: -5303357074183621614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 305
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0128e113d908d1280800000000000000
+      internalID: -9070952661832007152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 305
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa703f43daa89b6d0800000000000000
+      internalID: -2974193602379184209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 291
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3b6e9ddabae6c30800000000000000
+      internalID: 4354606652887315373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_37
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 291
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b3697b83b90f510800000000000000
+      internalID: 1580934137107594126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 289
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1914b0130d09f10800000000000000
+      internalID: 2274546720882921952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 289
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb47abf34f63b8860800000000000000
+      internalID: 7533175224376390846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 289
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7655ba2b6dabbe5f0800000000000000
+      internalID: -726281483606862489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_41
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 289
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624e299b01c4b06a0800000000000000
+      internalID: -6482003603953097690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 259
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82636802240a54fb0800000000000000
+      internalID: -4664145633198328280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_43
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 259
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da63579adace6fe0800000000000000
+      internalID: -1193793811016095021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 259
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fd8de5107281f30800000000000000
+      internalID: 4546426710670237525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 259
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c772168a7bf4f7e00800000000000000
+      internalID: 1044641288795793276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 273
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8926b3f198bd3cab0800000000000000
+      internalID: -4988902580215389544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 273
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4aed11898d9e3c0800000000000000
+      internalID: -4329691419093588786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_48
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 273
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40e7772c90091bd0800000000000000
+      internalID: -2659093434308501427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_49
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 273
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bd4cca9a1c524d0800000000000000
+      internalID: -3159906629038318815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_50
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 259
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5422857c3c2e34930800000000000000
+      internalID: 4126391014092448325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_51
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 259
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25efbb3a51a5a5160800000000000000
+      internalID: 7015018418570788434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 257
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9ecfb898da2a650800000000000000
+      internalID: 6242742839759661489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_53
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 257
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d504db29e9bf9f530800000000000000
+      internalID: 3889416411696414813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 257
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7131c2a4d63fb40800000000000000
+      internalID: 5472838137519740897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 257
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc381e00e9aeb5820800000000000000
+      internalID: 2908175948738298828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 225
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f01befd130e9490800000000000000
+      internalID: -7737743682413981904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_57
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 226
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d0f6e73bd3899f0800000000000000
+      internalID: -461551120675828450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 225
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093d7741e544c6650800000000000000
+      internalID: 6227427555607565200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_59
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 226
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19302824aa72d9b50800000000000000
+      internalID: 6601476241008755601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 226
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bb9a816b674f150800000000000000
+      internalID: 5905475535859464978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_61
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 236
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffa05f77ecf29ff0800000000000000
+      internalID: -30684176234532869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_62
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 226
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a8f85173c363e90800000000000000
+      internalID: -7046378359691965802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_63
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 227
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6d6cd03e6479da0800000000000000
+      internalID: -5938199642662054203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_64
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 226
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34417081ecc2bcf80800000000000000
+      internalID: -8085319442335591357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 193
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ad90760f6c9c060800000000000000
+      internalID: 6974324233783073330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_66
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 194
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd80e0273a6d63f0800000000000000
+      internalID: -905951165024268849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_67
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 193
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278e5c79471bf2950800000000000000
+      internalID: 6426550307601639538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_68
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 194
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f36f2277ab7340e0800000000000000
+      internalID: -2286848226668616712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_69
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 194
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef39d1710d0c22c50800000000000000
+      internalID: 6639080800671077374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_70
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 203
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7cb12c0f601e050800000000000000
+      internalID: 5827947023912650745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_71
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 194
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1d80a2ccb9c55f0800000000000000
+      internalID: -766566535378972193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_72
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 195
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94529af3b3395fcd0800000000000000
+      internalID: -2524950133390891703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_73
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 196
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df2ba0711ce52340800000000000000
+      internalID: 4838532934328332247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_74
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 193
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590983e116efc5520800000000000000
+      internalID: 2692306370333020309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 163
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868f6c3b6a98c16d0800000000000000
+      internalID: -3018386301171337112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 163
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34426dfb304f12eb0800000000000000
+      internalID: -4746244235331230653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 163
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e80ebdd17c153f0800000000000000
+      internalID: -913730318322594238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_78
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 163
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367e7c595fb279010800000000000000
+      internalID: 1195472559870044003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_79
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 163
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d80a1309dafb160800000000000000
+      internalID: 7043539177050246436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b901e308c8fb7e9b0800000000000000
+      internalID: -5050857846904844133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_81
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 164
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31a8db661f014a10800000000000000
+      internalID: 1891809907445375290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_82
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 163
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea8564e55f222060800000000000000
+      internalID: 6927151222799829739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_83
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 164
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd371968c85a3370800000000000000
+      internalID: 8303046480790765041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753fd3be64929f670800000000000000
+      internalID: 8572928750247605079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_86
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0571d5b7258d96f40800000000000000
+      internalID: 5722342650319542096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_87
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 131
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f7aff1f7f871a70800000000000000
+      internalID: 8797658173251682206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_88
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6444ee42bdbc83960800000000000000
+      internalID: 7582034114756101190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_89
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 131
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c68056d21c280e0800000000000000
+      internalID: -2269038861528568772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_90
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 130
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7059d018251ffbf0800000000000000
+      internalID: -288488589302869890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_91
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 131
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c204cd1e540e91f0800000000000000
+      internalID: -1036386061975813436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_92
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 131
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e87e687f00e4960800000000000000
+      internalID: 7588003485286108717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delicate deer_93
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 132
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7b9d46b55d58f60800000000000000
+      internalID: 8036063698623248315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

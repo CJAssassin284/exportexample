@@ -1,0 +1,1967 @@
+fileFormatVersion: 2
+guid: 9af7086d50e2f8745bf46930039d8660
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2560383613947913465
+    second: GB-LandTileset_0
+  - first:
+      213: -3141792075356786215
+    second: GB-LandTileset_1
+  - first:
+      213: -1285991487586625156
+    second: GB-LandTileset_2
+  - first:
+      213: -1380989972835900578
+    second: GB-LandTileset_3
+  - first:
+      213: -5838157648084606403
+    second: GB-LandTileset_4
+  - first:
+      213: -1090882240591546549
+    second: GB-LandTileset_5
+  - first:
+      213: 8018497737276946830
+    second: GB-LandTileset_6
+  - first:
+      213: 6039725217717341423
+    second: GB-LandTileset_7
+  - first:
+      213: 4478227747653971153
+    second: GB-LandTileset_8
+  - first:
+      213: -6254068779501334775
+    second: GB-LandTileset_9
+  - first:
+      213: 951460527838130307
+    second: GB-LandTileset_10
+  - first:
+      213: 8698874701125237656
+    second: GB-LandTileset_11
+  - first:
+      213: 6357063749623990946
+    second: GB-LandTileset_12
+  - first:
+      213: -5226498562184396373
+    second: GB-LandTileset_13
+  - first:
+      213: 6889700655539200718
+    second: GB-LandTileset_14
+  - first:
+      213: 3172255162821918779
+    second: GB-LandTileset_15
+  - first:
+      213: -63048747847259912
+    second: GB-LandTileset_16
+  - first:
+      213: 4783911742492427443
+    second: GB-LandTileset_17
+  - first:
+      213: -2502994575864992428
+    second: GB-LandTileset_18
+  - first:
+      213: 4554438991866064537
+    second: GB-LandTileset_19
+  - first:
+      213: 8029999849453871962
+    second: GB-LandTileset_20
+  - first:
+      213: -8999368234538870875
+    second: GB-LandTileset_21
+  - first:
+      213: -2367620540681339245
+    second: GB-LandTileset_22
+  - first:
+      213: -3832883173429708783
+    second: GB-LandTileset_23
+  - first:
+      213: -6784696848408932187
+    second: GB-LandTileset_24
+  - first:
+      213: 6677857891669800601
+    second: GB-LandTileset_25
+  - first:
+      213: 5891159230932030922
+    second: GB-LandTileset_26
+  - first:
+      213: -4755415590750111186
+    second: GB-LandTileset_27
+  - first:
+      213: 384729947763091766
+    second: GB-LandTileset_28
+  - first:
+      213: -1834214619406644827
+    second: GB-LandTileset_29
+  - first:
+      213: 5110785787801484459
+    second: GB-LandTileset_30
+  - first:
+      213: -638885608434785857
+    second: GB-LandTileset_31
+  - first:
+      213: 2153000146063923013
+    second: GB-LandTileset_32
+  - first:
+      213: 2078324960250549393
+    second: GB-LandTileset_33
+  - first:
+      213: 8442312322876747097
+    second: GB-LandTileset_34
+  - first:
+      213: 257226832742873246
+    second: GB-LandTileset_35
+  - first:
+      213: -2582154796068982411
+    second: GB-LandTileset_36
+  - first:
+      213: 5771190493231500777
+    second: GB-LandTileset_37
+  - first:
+      213: 5442244163997092002
+    second: GB-LandTileset_38
+  - first:
+      213: -6809317798255451319
+    second: GB-LandTileset_39
+  - first:
+      213: -8298189786787897455
+    second: GB-LandTileset_40
+  - first:
+      213: 8847970484850731726
+    second: GB-LandTileset_41
+  - first:
+      213: -3494725718585016684
+    second: GB-LandTileset_42
+  - first:
+      213: -1563662384353327825
+    second: GB-LandTileset_43
+  - first:
+      213: 4935324063963434133
+    second: GB-LandTileset_44
+  - first:
+      213: 4048255606846890801
+    second: GB-LandTileset_45
+  - first:
+      213: -7270252007829527020
+    second: GB-LandTileset_46
+  - first:
+      213: -5232465545005859039
+    second: GB-LandTileset_47
+  - first:
+      213: -2658275732621867985
+    second: GB-LandTileset_48
+  - first:
+      213: -8229743527194283560
+    second: GB-LandTileset_49
+  - first:
+      213: 8318009128872392299
+    second: GB-LandTileset_50
+  - first:
+      213: -6355045400354043734
+    second: GB-LandTileset_51
+  - first:
+      213: 4544268099733520557
+    second: GB-LandTileset_52
+  - first:
+      213: -1402008989658054144
+    second: GB-LandTileset_53
+  - first:
+      213: 662636610381747109
+    second: GB-LandTileset_54
+  - first:
+      213: -2300260228483159359
+    second: GB-LandTileset_55
+  - first:
+      213: -4470872399285717712
+    second: GB-LandTileset_56
+  - first:
+      213: -8810496494997890703
+    second: GB-LandTileset_57
+  - first:
+      213: -1125896394726315342
+    second: GB-LandTileset_58
+  - first:
+      213: 6572712599124667080
+    second: GB-LandTileset_59
+  - first:
+      213: -3417969651103229238
+    second: GB-LandTileset_60
+  - first:
+      213: -1143667586337508590
+    second: GB-LandTileset_61
+  - first:
+      213: 1612631230775310206
+    second: GB-LandTileset_62
+  - first:
+      213: -7452529304436574131
+    second: GB-LandTileset_63
+  - first:
+      213: -2062359088746134731
+    second: GB-LandTileset_64
+  - first:
+      213: -5980165671032512635
+    second: GB-LandTileset_65
+  - first:
+      213: 5833279816493288411
+    second: GB-LandTileset_66
+  - first:
+      213: 378016119781438191
+    second: GB-LandTileset_67
+  - first:
+      213: 9003152679896713598
+    second: GB-LandTileset_68
+  - first:
+      213: -2327580188781456072
+    second: GB-LandTileset_69
+  - first:
+      213: -5482489351181981156
+    second: GB-LandTileset_70
+  - first:
+      213: 703811993180662895
+    second: GB-LandTileset_71
+  - first:
+      213: -8035266928888597556
+    second: GB-LandTileset_72
+  - first:
+      213: 7250079567232464836
+    second: GB-LandTileset_73
+  - first:
+      213: -4127530728101788807
+    second: GB-LandTileset_74
+  - first:
+      213: 504805661417210823
+    second: GB-LandTileset_75
+  - first:
+      213: 7915743797608089040
+    second: GB-LandTileset_76
+  - first:
+      213: 5485686536551861589
+    second: GB-LandTileset_77
+  - first:
+      213: 5653623125757837954
+    second: GB-LandTileset_78
+  - first:
+      213: -4649576129940869875
+    second: GB-LandTileset_79
+  - first:
+      213: -8581246629525073358
+    second: GB-LandTileset_80
+  - first:
+      213: -6524052146013007171
+    second: GB-LandTileset_81
+  - first:
+      213: 8512672506326134164
+    second: GB-LandTileset_82
+  - first:
+      213: -5971593479907211975
+    second: GB-LandTileset_83
+  - first:
+      213: -4138153417679059447
+    second: GB-LandTileset_84
+  - first:
+      213: -1653852596681502751
+    second: GB-LandTileset_85
+  - first:
+      213: -3129543978466671401
+    second: GB-LandTileset_86
+  - first:
+      213: 4574948289775509418
+    second: GB-LandTileset_87
+  - first:
+      213: -6545411213496365694
+    second: GB-LandTileset_88
+  - first:
+      213: -5465441451768726171
+    second: GB-LandTileset_89
+  - first:
+      213: 4786427438016504101
+    second: GB-LandTileset_90
+  - first:
+      213: -3557499799170288419
+    second: GB-LandTileset_91
+  - first:
+      213: -8515382245985829993
+    second: GB-LandTileset_92
+  - first:
+      213: 7418474425172053930
+    second: GB-LandTileset_93
+  - first:
+      213: 8972300288947981040
+    second: GB-LandTileset_94
+  - first:
+      213: -2840580248254629330
+    second: GB-LandTileset_95
+  - first:
+      213: -8893251203037474603
+    second: GB-LandTileset_96
+  - first:
+      213: -6939719640514677336
+    second: GB-LandTileset_97
+  - first:
+      213: 7880150392340134735
+    second: GB-LandTileset_98
+  - first:
+      213: -4181643611039424112
+    second: GB-LandTileset_99
+  - first:
+      213: 5271743079503296178
+    second: GB-LandTileset_100
+  - first:
+      213: 5452010457201839219
+    second: GB-LandTileset_101
+  - first:
+      213: 8950642435701177161
+    second: GB-LandTileset_102
+  - first:
+      213: 107364998669220075
+    second: GB-LandTileset_103
+  - first:
+      213: 1447067114119988512
+    second: GB-LandTileset_104
+  - first:
+      213: 2878222575979560927
+    second: GB-LandTileset_105
+  - first:
+      213: -7709892879487966968
+    second: GB-LandTileset_106
+  - first:
+      213: 4487511771237934337
+    second: GB-LandTileset_107
+  - first:
+      213: 6019860955006364389
+    second: GB-LandTileset_108
+  - first:
+      213: 5163608724328569332
+    second: GB-LandTileset_109
+  - first:
+      213: 5246205318353543433
+    second: GB-LandTileset_110
+  - first:
+      213: 255740948214035403
+    second: GB-LandTileset_111
+  - first:
+      213: 5254856436725436201
+    second: GB-LandTileset_112
+  - first:
+      213: -4454930768345111107
+    second: GB-LandTileset_113
+  - first:
+      213: -811021017755020224
+    second: GB-LandTileset_114
+  - first:
+      213: -3338290633059127367
+    second: GB-LandTileset_115
+  - first:
+      213: -5288830148709866950
+    second: GB-LandTileset_116
+  - first:
+      213: -6798165271438845236
+    second: GB-LandTileset_117
+  - first:
+      213: -6538979402823885979
+    second: GB-LandTileset_118
+  - first:
+      213: -1625651098723746208
+    second: GB-LandTileset_119
+  - first:
+      213: -7932348550340672134
+    second: GB-LandTileset_120
+  - first:
+      213: 5870159758476600373
+    second: GB-LandTileset_121
+  - first:
+      213: 3354829199919444857
+    second: GB-LandTileset_122
+  - first:
+      213: 632478786194884173
+    second: GB-LandTileset_123
+  - first:
+      213: -5527165386431122774
+    second: GB-LandTileset_124
+  - first:
+      213: 6288641605574361237
+    second: GB-LandTileset_125
+  - first:
+      213: -3739911011379719243
+    second: GB-LandTileset_126
+  - first:
+      213: 1479944811738997628
+    second: GB-LandTileset_127
+  - first:
+      213: -808517355058555055
+    second: GB-LandTileset_128
+  - first:
+      213: 8888118044761051416
+    second: GB-LandTileset_129
+  - first:
+      213: 1607364226157204998
+    second: GB-LandTileset_130
+  - first:
+      213: 8900508231239903734
+    second: GB-LandTileset_131
+  - first:
+      213: 8752554294137471512
+    second: GB-LandTileset_132
+  - first:
+      213: -1698752505365191598
+    second: GB-LandTileset_133
+  - first:
+      213: 1336402718346155232
+    second: GB-LandTileset_134
+  - first:
+      213: 1281172396563047794
+    second: GB-LandTileset_135
+  - first:
+      213: -3467684611390975390
+    second: GB-LandTileset_136
+  - first:
+      213: -8974141116524982400
+    second: GB-LandTileset_137
+  - first:
+      213: -5878721709642603620
+    second: GB-LandTileset_138
+  - first:
+      213: -2444427983100194335
+    second: GB-LandTileset_139
+  - first:
+      213: 1570926255614654593
+    second: GB-LandTileset_140
+  - first:
+      213: -5460971014567637709
+    second: GB-LandTileset_141
+  - first:
+      213: 4056814765591426555
+    second: GB-LandTileset_142
+  - first:
+      213: -7126306777180020900
+    second: GB-LandTileset_143
+  - first:
+      213: -4764831489313686703
+    second: GB-LandTileset_144
+  - first:
+      213: -361319124878460540
+    second: GB-LandTileset_145
+  - first:
+      213: -8361987877176669993
+    second: GB-LandTileset_146
+  - first:
+      213: -102724040774804864
+    second: GB-LandTileset_147
+  - first:
+      213: -5237144337208532263
+    second: GB-LandTileset_148
+  - first:
+      213: -3053684162008682932
+    second: GB-LandTileset_149
+  - first:
+      213: 8670666560441341872
+    second: GB-LandTileset_150
+  - first:
+      213: 4206340126374027915
+    second: GB-LandTileset_151
+  - first:
+      213: -8038085283120244402
+    second: GB-LandTileset_152
+  - first:
+      213: 1452032807289946427
+    second: GB-LandTileset_153
+  - first:
+      213: -600393419983633716
+    second: GB-LandTileset_154
+  - first:
+      213: 1128246287689090347
+    second: GB-LandTileset_155
+  - first:
+      213: -4030654414023452780
+    second: GB-LandTileset_156
+  - first:
+      213: -1172400068409119311
+    second: GB-LandTileset_157
+  - first:
+      213: 4178224543279890311
+    second: GB-LandTileset_158
+  - first:
+      213: -7055135596528772668
+    second: GB-LandTileset_159
+  - first:
+      213: 3586096107474201680
+    second: GB-LandTileset_160
+  - first:
+      213: -5540200048763287814
+    second: GB-LandTileset_161
+  - first:
+      213: -4194603260580217523
+    second: GB-LandTileset_162
+  - first:
+      213: 1867050239016451175
+    second: GB-LandTileset_163
+  - first:
+      213: -3171520553360540784
+    second: GB-LandTileset_164
+  - first:
+      213: 1756745041226098480
+    second: GB-LandTileset_165
+  - first:
+      213: -4676581635618427189
+    second: GB-LandTileset_166
+  - first:
+      213: -2570113803068502913
+    second: GB-LandTileset_167
+  - first:
+      213: -3143448901028929019
+    second: GB-LandTileset_168
+  - first:
+      213: -8685680740966538365
+    second: GB-LandTileset_169
+  - first:
+      213: 3255275055351992229
+    second: GB-LandTileset_170
+  - first:
+      213: 2212907904334270966
+    second: GB-LandTileset_171
+  - first:
+      213: 875623994876112782
+    second: GB-LandTileset_172
+  - first:
+      213: -3002040049088119587
+    second: GB-LandTileset_173
+  - first:
+      213: 7830100501722877555
+    second: GB-LandTileset_174
+  - first:
+      213: 5876620229116621593
+    second: GB-LandTileset_175
+  - first:
+      213: 9019217813206715429
+    second: GB-LandTileset_176
+  - first:
+      213: 6883626762984698036
+    second: GB-LandTileset_177
+  - first:
+      213: -5866859961994553866
+    second: GB-LandTileset_178
+  - first:
+      213: -3673924393459272830
+    second: GB-LandTileset_179
+  - first:
+      213: 7268981022182013637
+    second: GB-LandTileset_180
+  - first:
+      213: 5267502336908836922
+    second: GB-LandTileset_181
+  - first:
+      213: -4685759035118303960
+    second: GB-LandTileset_182
+  - first:
+      213: -7051625497696396583
+    second: GB-LandTileset_183
+  - first:
+      213: -4049381744035487085
+    second: GB-LandTileset_184
+  - first:
+      213: 6114057391236361399
+    second: GB-LandTileset_185
+  - first:
+      213: 352273565220406921
+    second: GB-LandTileset_186
+  - first:
+      213: -6083260898961665358
+    second: GB-LandTileset_187
+  - first:
+      213: -6012277496439801853
+    second: GB-LandTileset_188
+  - first:
+      213: 2319549600485500973
+    second: GB-LandTileset_189
+  - first:
+      213: 929172119492089703
+    second: GB-LandTileset_190
+  - first:
+      213: -5788593765445221218
+    second: GB-LandTileset_191
+  - first:
+      213: -8255568154727237293
+    second: GB-LandTileset_192
+  - first:
+      213: 3611386585225937994
+    second: GB-LandTileset_193
+  - first:
+      213: -2749942046689679033
+    second: GB-LandTileset_194
+  - first:
+      213: -8870268021882659494
+    second: GB-LandTileset_195
+  - first:
+      213: -2876635292439891698
+    second: GB-LandTileset_196
+  - first:
+      213: -2958888750977626647
+    second: GB-LandTileset_197
+  - first:
+      213: -2173376569553878463
+    second: GB-LandTileset_198
+  - first:
+      213: 7604514028226012013
+    second: GB-LandTileset_199
+  - first:
+      213: -8635878564316598572
+    second: GB-LandTileset_200
+  - first:
+      213: 7390707479365870237
+    second: GB-LandTileset_201
+  - first:
+      213: -1453014693144291534
+    second: GB-LandTileset_202
+  - first:
+      213: -8102450935384752717
+    second: GB-LandTileset_203
+  - first:
+      213: -8622556176544655843
+    second: GB-LandTileset_204
+  - first:
+      213: -8059260766180769329
+    second: GB-LandTileset_205
+  - first:
+      213: -4246014089318380930
+    second: GB-LandTileset_206
+  - first:
+      213: 4089426981332211070
+    second: GB-LandTileset_207
+  - first:
+      213: -8436968722193699273
+    second: GB-LandTileset_208
+  - first:
+      213: -2053788300422685329
+    second: GB-LandTileset_209
+  - first:
+      213: -5666409047561391043
+    second: GB-LandTileset_210
+  - first:
+      213: -5533213488672575782
+    second: GB-LandTileset_211
+  - first:
+      213: 3671152937745917752
+    second: GB-LandTileset_212
+  - first:
+      213: -3984202075482441862
+    second: GB-LandTileset_213
+  - first:
+      213: -1785166793699763592
+    second: GB-LandTileset_214
+  - first:
+      213: -1355720788871857243
+    second: GB-LandTileset_215
+  - first:
+      213: -7304148240445800731
+    second: GB-LandTileset_216
+  - first:
+      213: 6617110379948339082
+    second: GB-LandTileset_217
+  - first:
+      213: 624818749273418848
+    second: GB-LandTileset_218
+  - first:
+      213: 7343987774451619257
+    second: GB-LandTileset_219
+  - first:
+      213: -334681760027189282
+    second: GB-LandTileset_220
+  - first:
+      213: -1563414237637310094
+    second: GB-LandTileset_221
+  - first:
+      213: -8629948906561789521
+    second: GB-LandTileset_222
+  - first:
+      213: 5614774004022731291
+    second: GB-LandTileset_223
+  - first:
+      213: -8372039225193072802
+    second: GB-LandTileset_224
+  - first:
+      213: -7493704321847559863
+    second: GB-LandTileset_225
+  - first:
+      213: -4542851515855884233
+    second: GB-LandTileset_226
+  - first:
+      213: -7847234701968604648
+    second: GB-LandTileset_227
+  - first:
+      213: -4613479325747015723
+    second: GB-LandTileset_228
+  - first:
+      213: -5949059477643706497
+    second: GB-LandTileset_229
+  - first:
+      213: -5361332447774066745
+    second: GB-LandTileset_230
+  - first:
+      213: 7092489094470785346
+    second: GB-LandTileset_231
+  - first:
+      213: -3677532884585650715
+    second: GB-LandTileset_232
+  - first:
+      213: -7165245380233205210
+    second: GB-LandTileset_233
+  - first:
+      213: -944159357361249513
+    second: GB-LandTileset_234
+  - first:
+      213: 7430412357351492035
+    second: GB-LandTileset_235
+  - first:
+      213: 1624074296763298247
+    second: GB-LandTileset_236
+  - first:
+      213: 5720163806575312549
+    second: GB-LandTileset_237
+  - first:
+      213: -5858892127916833377
+    second: GB-LandTileset_238
+  - first:
+      213: 2687547068329014500
+    second: GB-LandTileset_239
+  - first:
+      213: -4916518952401470354
+    second: GB-LandTileset_240
+  - first:
+      213: 7132982229177972
+    second: GB-LandTileset_241
+  - first:
+      213: -2980103409650910719
+    second: GB-LandTileset_242
+  - first:
+      213: 6418683006592026239
+    second: GB-LandTileset_243
+  - first:
+      213: -2303955650761662625
+    second: GB-LandTileset_244
+  - first:
+      213: 8272666550539219484
+    second: GB-LandTileset_245
+  - first:
+      213: 6187946134210202456
+    second: GB-LandTileset_246
+  - first:
+      213: 3763464651368163788
+    second: GB-LandTileset_247
+  - first:
+      213: -5779974434246969119
+    second: GB-LandTileset_248
+  - first:
+      213: -7797919772590981282
+    second: GB-LandTileset_249
+  - first:
+      213: -7661582992553873520
+    second: GB-LandTileset_250
+  - first:
+      213: -8992930384135284675
+    second: GB-LandTileset_251
+  - first:
+      213: 8776201635692047719
+    second: GB-LandTileset_252
+  - first:
+      213: 4068976878458239468
+    second: GB-LandTileset_253
+  - first:
+      213: -176836027327945784
+    second: GB-LandTileset_254
+  - first:
+      213: -7799048790478457326
+    second: GB-LandTileset_255
+  - first:
+      213: -1768241391889543629
+    second: GB-LandTileset_256
+  - first:
+      213: 7538917795359194581
+    second: GB-LandTileset_257
+  - first:
+      213: -5748921844932691345
+    second: GB-LandTileset_258
+  - first:
+      213: 2446218290409286194
+    second: GB-LandTileset_259
+  - first:
+      213: -4075979988584241909
+    second: GB-LandTileset_260
+  - first:
+      213: 2523375019169196695
+    second: GB-LandTileset_261
+  - first:
+      213: -3285866792292071111
+    second: GB-LandTileset_262
+  - first:
+      213: -404367043261008101
+    second: GB-LandTileset_263
+  - first:
+      213: 2311856298262341680
+    second: GB-LandTileset_264
+  - first:
+      213: -248366215104326974
+    second: GB-LandTileset_265
+  - first:
+      213: 1306424725724328064
+    second: GB-LandTileset_266
+  - first:
+      213: -2291160300469038522
+    second: GB-LandTileset_267
+  - first:
+      213: 5289977321671683086
+    second: GB-LandTileset_268
+  - first:
+      213: 7823227801499570043
+    second: GB-LandTileset_269
+  - first:
+      213: 3788091773925157068
+    second: GB-LandTileset_270
+  - first:
+      213: 6297962969505785104
+    second: GB-LandTileset_271
+  - first:
+      213: -76481399051660713
+    second: GB-LandTileset_272
+  - first:
+      213: -6741185943782249073
+    second: GB-LandTileset_273
+  - first:
+      213: 6714506236697097053
+    second: GB-LandTileset_274
+  - first:
+      213: 5076208131569267515
+    second: GB-LandTileset_275
+  - first:
+      213: -5972292265842055426
+    second: GB-LandTileset_276
+  - first:
+      213: -2293017426029010848
+    second: GB-LandTileset_277
+  - first:
+      213: -5949070835474145923
+    second: GB-LandTileset_278
+  - first:
+      213: -7436441150291020236
+    second: GB-LandTileset_279
+  - first:
+      213: -1653325247290005748
+    second: GB-LandTileset_280
+  - first:
+      213: -511707082125822728
+    second: GB-LandTileset_281
+  - first:
+      213: 8002517894238399110
+    second: GB-LandTileset_282
+  - first:
+      213: -1486234398520232707
+    second: GB-LandTileset_283
+  - first:
+      213: -8580156795672138066
+    second: GB-LandTileset_284
+  - first:
+      213: 8866269464070037462
+    second: GB-LandTileset_285
+  - first:
+      213: 8891002608613323446
+    second: GB-LandTileset_286
+  - first:
+      213: -7808796632298520530
+    second: GB-LandTileset_287
+  - first:
+      213: -1525061378152857506
+    second: GB-LandTileset_288
+  - first:
+      213: -4365285185777427397
+    second: GB-LandTileset_289
+  - first:
+      213: 1354334329879687730
+    second: GB-LandTileset_290
+  - first:
+      213: 2494236176215868343
+    second: GB-LandTileset_291
+  - first:
+      213: -7746729666155628474
+    second: GB-LandTileset_292
+  - first:
+      213: 373470880857077046
+    second: GB-LandTileset_293
+  - first:
+      213: 1842819902625376879
+    second: GB-LandTileset_294
+  - first:
+      213: -9084246061014695839
+    second: GB-LandTileset_295
+  - first:
+      213: -2174657608579967008
+    second: GB-LandTileset_296
+  - first:
+      213: -173013460522743899
+    second: GB-LandTileset_297
+  - first:
+      213: -5776653595232553883
+    second: GB-LandTileset_298
+  - first:
+      213: 4698371303556217160
+    second: GB-LandTileset_299
+  - first:
+      213: 1094919055672282464
+    second: GB-LandTileset_300
+  - first:
+      213: -2594252087268354594
+    second: GB-LandTileset_0
+  - first:
+      213: -4312465144520539717
+    second: GB-LandTileset_1
+  - first:
+      213: -804186706482347573
+    second: GB-LandTileset_2
+  - first:
+      213: -2330291886510204550
+    second: GB-LandTileset_3
+  - first:
+      213: 2539832533080118874
+    second: GB-LandTileset_4
+  - first:
+      213: -265749716314443859
+    second: GB-LandTileset_5
+  - first:
+      213: -7772068454125004256
+    second: GB-LandTileset_6
+  - first:
+      213: -4645052536349659130
+    second: GB-LandTileset_7
+  - first:
+      213: -6604764755904219531
+    second: GB-LandTileset_8
+  - first:
+      213: 247983517019607679
+    second: GB-LandTileset_9
+  - first:
+      213: 7141033976585381281
+    second: GB-LandTileset_10
+  - first:
+      213: 2203417374434761274
+    second: GB-LandTileset_11
+  - first:
+      213: 845137794185572456
+    second: GB-LandTileset_12
+  - first:
+      213: 1823443080502954335
+    second: GB-LandTileset_13
+  - first:
+      213: -6394424217955413441
+    second: GB-LandTileset_14
+  - first:
+      213: 3055706816641699186
+    second: GB-LandTileset_15
+  - first:
+      213: 3600521946559868397
+    second: GB-LandTileset_16
+  - first:
+      213: 3686508239079036144
+    second: GB-LandTileset_17
+  - first:
+      213: -3065732999648599021
+    second: GB-LandTileset_18
+  - first:
+      213: -1076620835024161450
+    second: GB-LandTileset_19
+  - first:
+      213: -8269181820472652404
+    second: GB-LandTileset_20
+  - first:
+      213: 7964851124932619436
+    second: GB-LandTileset_21
+  - first:
+      213: 8787310632750236077
+    second: GB-LandTileset_22
+  - first:
+      213: -7868239943955823309
+    second: GB-LandTileset_23
+  - first:
+      213: 5331049808692272634
+    second: GB-LandTileset_24
+  - first:
+      213: -2242627715674363990
+    second: GB-LandTileset_25
+  - first:
+      213: 7117770211253128654
+    second: GB-LandTileset_26
+  - first:
+      213: -3126733656403512779
+    second: GB-LandTileset_27
+  - first:
+      213: 5854334796687387084
+    second: GB-LandTileset_28
+  - first:
+      213: 5315500122849908150
+    second: GB-LandTileset_29
+  - first:
+      213: -4822450900142810196
+    second: GB-LandTileset_30
+  - first:
+      213: -2566082672325128934
+    second: GB-LandTileset_31
+  - first:
+      213: 7125903410070595152
+    second: GB-LandTileset_32
+  - first:
+      213: 6947948329545028685
+    second: GB-LandTileset_33
+  - first:
+      213: 86796215668078151
+    second: GB-LandTileset_34
+  - first:
+      213: -8888776813053380482
+    second: GB-LandTileset_35
+  - first:
+      213: 7105818038931563807
+    second: GB-LandTileset_36
+  - first:
+      213: -1109932766221878456
+    second: GB-LandTileset_37
+  - first:
+      213: 3417894944514271403
+    second: GB-LandTileset_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GB-LandTileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5dd88b87d5ffbd0800000000000000
+      internalID: -2594252087268354594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 309
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1899aaccb0724c0800000000000000
+      internalID: -4312465144520539717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 306
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc147038374f6d4f0800000000000000
+      internalID: -804186706482347573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 310
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79959920e329afd0800000000000000
+      internalID: -2330291886510204550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 312
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5698337b3c4f3320800000000000000
+      internalID: 2539832533080118874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 306
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafaaef7a0edf4cf0800000000000000
+      internalID: -265749716314443859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 313
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a1cdd4be0142490800000000000000
+      internalID: -7772068454125004256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 308
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600f9d72455798fb0800000000000000
+      internalID: -4645052536349659130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 309
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5763f43b2792754a0800000000000000
+      internalID: -6604764755904219531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 313
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f721b12e1b3017300800000000000000
+      internalID: 247983517019607679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 293
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5ed5f119c0a1360800000000000000
+      internalID: 7141033976585381281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 292
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a9b178d6c149e10800000000000000
+      internalID: 2203417374434761274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 313
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86030b898588abb00800000000000000
+      internalID: 845137794185572456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 306
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59c58912db2e4910800000000000000
+      internalID: 1823443080502954335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 290
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32dc998d017247a0800000000000000
+      internalID: -6394424217955413441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 306
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d0bafe82d086a20800000000000000
+      internalID: 3055706816641699186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 307
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dede2be42af97f130800000000000000
+      internalID: 3600521946559868397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 306
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f45bd326bb192330800000000000000
+      internalID: 3686508239079036144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 307
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314a0cb64145475d0800000000000000
+      internalID: -3065732999648599021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 290
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655b9920e031f01f0800000000000000
+      internalID: -1076620835024161450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 296
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d0c9f32f6fd3d80800000000000000
+      internalID: -8269181820472652404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 297
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacaa7606e5d88e60800000000000000
+      internalID: 7964851124932619436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 297
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1471c967cc2f970800000000000000
+      internalID: 8787310632750236077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 292
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33549fc65756ec290800000000000000
+      internalID: -7868239943955823309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 290
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd540f4e81bbf940800000000000000
+      internalID: 5331049808692272634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 297
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a8cb79f590e0e0800000000000000
+      internalID: -2242627715674363990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 297
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd899aab4667c260800000000000000
+      internalID: 7117770211253128654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 296
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5327fce3e4c9b94d0800000000000000
+      internalID: -3126733656403512779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 296
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9a2c0ea76ce3150800000000000000
+      internalID: 5854334796687387084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 298
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b59302f23374c940800000000000000
+      internalID: 5315500122849908150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab993ee476331db0800000000000000
+      internalID: -4822450900142810196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 291
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d86cbb761736cd0800000000000000
+      internalID: -2566082672325128934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 290
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056a005956b44e260800000000000000
+      internalID: 7125903410070595152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44dc44a1321c6060800000000000000
+      internalID: 6947948329545028685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 291
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7467eb2c2bc543100800000000000000
+      internalID: 86796215668078151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 291
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7879325598b4a480800000000000000
+      internalID: -8888776813053380482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 291
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f152411bbdfec9260800000000000000
+      internalID: 7105818038931563807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 289
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b37c0a70ab890f0800000000000000
+      internalID: -1109932766221878456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB-LandTileset_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8606fd75dce6f20800000000000000
+      internalID: 3417894944514271403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f4a1ae10e3ca25f45aa221ac44c16ed9, type: 3}
+    - {fileID: 2800000, guid: ecddfdd128028e24e892f36099eba627, type: 3}
+    - {fileID: 2800000, guid: ee47401f1817fbd4ba55a1e21c75867b, type: 3}
+    - {fileID: 2800000, guid: 3da7755bdf43ce243ab30562edafbc8b, type: 3}
+    - {fileID: 2800000, guid: 1237308cfad06fa4297dac3d9f5710e0, type: 3}
+    - {fileID: 2800000, guid: ae475f2fdc7933244adc604833b32fdf, type: 3}
+    - {fileID: 2800000, guid: aa65f7bcffcba984cb4dab1e8317c86c, type: 3}
+    - {fileID: 2800000, guid: 7d12922350063b848a101ce1de42341f, type: 3}
+    - {fileID: 2800000, guid: 655f9f51836741e4a9dd8b70af2f0484, type: 3}
+    - {fileID: 2800000, guid: 0b258b813fc6f0f44a895f60bffc938b, type: 3}
+    - {fileID: 2800000, guid: 2eb386f8f2feaf7489dce6c65a2ac40d, type: 3}
+    - {fileID: 2800000, guid: 3e9a45bd25b313d4c996b53351d54375, type: 3}
+    - {fileID: 2800000, guid: 7584b644e6849c446a4b4cc0a21633e8, type: 3}
+    - {fileID: 2800000, guid: 142947383d4e9974eb155bc7c4ffc90d, type: 3}
+    - {fileID: 2800000, guid: 0c5ab8ad5cb7b4f43a06f2670bc7a1cc, type: 3}
+    totalSpriteSurfaceArea: 28772
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f4a1ae10e3ca25f45aa221ac44c16ed9, type: 3}
+  - {fileID: 21300000, guid: 655f9f51836741e4a9dd8b70af2f0484, type: 3}
+  - {fileID: 21300000, guid: 0b258b813fc6f0f44a895f60bffc938b, type: 3}
+  - {fileID: 21300000, guid: ecddfdd128028e24e892f36099eba627, type: 3}
+  - {fileID: 21300000, guid: 7d12922350063b848a101ce1de42341f, type: 3}
+  - {fileID: 21300000, guid: 7584b644e6849c446a4b4cc0a21633e8, type: 3}
+  - {fileID: 21300000, guid: 142947383d4e9974eb155bc7c4ffc90d, type: 3}
+  - {fileID: 21300000, guid: 2eb386f8f2feaf7489dce6c65a2ac40d, type: 3}
+  - {fileID: 21300000, guid: 3da7755bdf43ce243ab30562edafbc8b, type: 3}
+  - {fileID: 21300000, guid: 1237308cfad06fa4297dac3d9f5710e0, type: 3}
+  - {fileID: 21300000, guid: aa65f7bcffcba984cb4dab1e8317c86c, type: 3}
+  - {fileID: 21300000, guid: 0c5ab8ad5cb7b4f43a06f2670bc7a1cc, type: 3}
+  - {fileID: 21300000, guid: 3e9a45bd25b313d4c996b53351d54375, type: 3}
+  - {fileID: 21300000, guid: ee47401f1817fbd4ba55a1e21c75867b, type: 3}
+  - {fileID: 21300000, guid: ae475f2fdc7933244adc604833b32fdf, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bar
+  - ArrowUp
+  - tutorial_01
+  - bar2
+  - overworld_57
+  - item2_41
+  - item2_42
+  - item2_39
+  - item_67
+  - item_69
+  - item_68
+  - item2_43
+  - item2_40
+  - overworld_03
+  - item_65
+  m_Tag: GameAtlas
+  m_IsVariant: 0
